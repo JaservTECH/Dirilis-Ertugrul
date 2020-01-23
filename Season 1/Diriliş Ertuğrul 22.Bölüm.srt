@@ -1,2602 +1,3378 @@
-﻿WEBVTT
-
-00:01.000 --> 01:41.000
+﻿1
+00:00:01,000 --> 00:01:41,000
 Episode 22 will start after 12:21 min
 
-12:21.742 --> 12:24.742
+2
+00:12:21,742 --> 00:12:24,742
 {\an8}RESURRECTION ERTUGRUL
 
-12:25.353 --> 12:28.353
+3
+00:12:25,353 --> 00:12:28,353
 THE STORIES AND CHARACTERS DEPICTED
 HERE WERE INSPIRED BY OUR HISTORY
 
-12:29.744 --> 12:32.744
+4
+00:12:29,744 --> 00:12:32,744
 NO ANIMALS WERE HARMED DURING
 THE FILMING OF THIS PRODUCTION.
 
-13:53.239 --> 13:55.372
+5
+00:13:53,239 --> 00:13:55,372
 Talk.
 
-13:55.439 --> 13:57.505
+6
+00:13:55,439 --> 00:13:57,505
 What do you want from me?
 
-13:58.672 --> 14:02.739
+7
+00:13:58,672 --> 00:14:02,739
 I can see the hatred in your eyes.
 
-14:03.872 --> 14:06.472
+8
+00:14:03,872 --> 00:14:06,472
 But I know that you are clever enough...
 
-14:06.539 --> 14:10.039
+9
+00:14:06,539 --> 00:14:10,039
 ...to understand that I do everything
 for the nomad tent's future.
 
-14:10.305 --> 14:13.339
+10
+00:14:10,305 --> 00:14:13,339
 With that bastard named
 Grandmaster Petruchio.
 
-14:13.872 --> 14:16.605
+11
+00:14:13,872 --> 00:14:16,605
 With that murderer named Titus.
 
-14:17.272 --> 14:20.839
+12
+00:14:17,272 --> 00:14:20,839
 And with that bastard named Black Toygar.
 Did you ally with them for this?
 
-14:20.905 --> 14:23.372
+13
+00:14:20,905 --> 00:14:23,372
 This is not a personal matter.
 
-14:23.972 --> 14:27.539
+14
+00:14:23,972 --> 00:14:27,539
 I hate them as much as you do.
 
-14:27.639 --> 14:29.839
+15
+00:14:27,639 --> 00:14:29,839
 I am sure they hate me, too.
 
-14:29.905 --> 14:31.472
+16
+00:14:29,905 --> 00:14:31,472
 But I bear with them.
 
-14:31.539 --> 14:35.405
+17
+00:14:31,539 --> 00:14:35,405
 For what?
 Only for the future of Kayis.
 
-14:35.939 --> 14:40.439
+18
+00:14:35,939 --> 00:14:40,439
 If your future is in the hands of the
 Templars who guide the Crusaders...
 
-14:41.839 --> 14:44.672
+19
+00:14:41,839 --> 00:14:44,672
 ...it is better for the Kayis to perish.
 
-14:46.039 --> 14:50.472
+20
+00:14:46,039 --> 00:14:50,472
 However, both Ertugrul and I
 know very well that this is not the case.
 
-14:53.572 --> 14:56.772
+21
+00:14:53,572 --> 00:14:56,772
 He will reveal all your games
 one by one.
 
-14:58.739 --> 15:01.472
+22
+00:14:58,739 --> 00:15:01,472
 He will make you regret
 for what you did.
 
-15:02.439 --> 15:04.772
+23
+00:15:02,439 --> 00:15:04,772
 Suleyman Shah will take the crown back.
 
-15:04.872 --> 15:06.939
+24
+00:15:04,872 --> 00:15:06,939
 It is too late, Halime Sultan!
 
-15:09.672 --> 15:15.305
+25
+00:15:09,672 --> 00:15:15,305
 Suleyman Shah, his family,
 and the ones who are with them...
 
-15:16.872 --> 15:19.239
+26
+00:15:16,872 --> 00:15:19,239
 ...are not alive anymore.
 
-15:19.305 --> 15:20.839
+27
+00:15:19,305 --> 00:15:20,839
 You are lying.
 
-15:21.805 --> 15:24.239
+28
+00:15:21,805 --> 00:15:24,239
 Unfortunately, this was necessary.
 
-15:25.439 --> 15:27.505
+29
+00:15:25,439 --> 00:15:27,505
 But you can be at ease.
 
-15:27.572 --> 15:31.705
+30
+00:15:27,572 --> 00:15:31,705
 Turgut Alp must have done this
 in a painless and fast way.
 
-15:32.939 --> 15:35.239
+31
+00:15:32,939 --> 00:15:35,239
 As to Ertugrul...
 
-15:35.305 --> 15:39.239
+32
+00:15:35,305 --> 00:15:39,239
 ...Ertugrul and his Alps
 Dogan and Bamsi...
 
-15:39.339 --> 15:41.605
+33
+00:15:39,339 --> 00:15:41,605
 ...are in the hands of those
 bastard Templars.
 
-15:41.672 --> 15:43.472
+34
+00:15:41,672 --> 00:15:43,472
 You are lying!
 
-15:43.539 --> 15:46.272
+35
+00:15:43,539 --> 00:15:46,272
 Listen to me carefully, Halime Sultan!
 
-15:46.339 --> 15:49.739
+36
+00:15:46,339 --> 00:15:49,739
 You do not have anybody left in your life.
 Except your brother.
 
-15:49.805 --> 15:53.805
+37
+00:15:49,805 --> 00:15:53,805
 If you want to take your brother,
 go far away and start a new life...
 
-15:53.905 --> 15:56.805
+38
+00:15:53,905 --> 00:15:56,805
 ...I am ready to give you
 this opportunity.
 
-15:58.239 --> 16:00.305
+39
+00:15:58,239 --> 00:16:00,305
 What do you want?
 
-16:01.972 --> 16:04.039
+40
+00:16:01,972 --> 00:16:04,039
 Arabi's ark.
 
-16:10.939 --> 16:13.405
+41
+00:16:10,939 --> 00:16:13,405
 Ibn al-Arabi allowed
 only the two of us...
 
-16:13.505 --> 16:15.605
+42
+00:16:13,505 --> 00:16:15,605
 ...to know where this ark is.
 
-16:15.672 --> 16:17.372
+43
+00:16:15,672 --> 00:16:17,372
 He told us not to open it ever.
 
-16:17.439 --> 16:19.372
+44
+00:16:17,439 --> 00:16:19,372
 He will take it back when he comes back.
 
-16:20.539 --> 16:22.305
+45
+00:16:20,539 --> 00:16:22,305
 Listen, Halime Sultan...
 
-16:22.405 --> 16:25.572
+46
+00:16:22,405 --> 00:16:25,572
 ...if you tell me where the ark is...
 
-16:25.639 --> 16:28.772
+47
+00:16:25,639 --> 00:16:28,772
 ...you can start a new life
 with your brother.
 
-16:29.705 --> 16:32.405
+48
+00:16:29,705 --> 00:16:32,405
 This is my first and last offer to you.
 
-16:59.405 --> 17:01.405
+49
+00:16:59,405 --> 00:17:01,405
 What is he doing here?
 
-17:02.572 --> 17:05.739
+50
+00:17:02,572 --> 00:17:05,739
 It is impossible for him
 to do it and come back this fast.
 
-17:05.839 --> 17:07.839
+51
+00:17:05,839 --> 00:17:07,839
 Guard, let the Bey know.
 
-17:08.272 --> 17:09.905
+52
+00:17:08,272 --> 00:17:09,905
 Tell them Turgut Alp is here.
 
-17:10.005 --> 17:11.639
+53
+00:17:10,005 --> 00:17:11,639
 Yes, Bey.
 
-17:45.005 --> 17:47.405
+54
+00:17:45,005 --> 00:17:47,405
 I do not know anything
 about Arabi's ark.
 
-17:53.472 --> 17:57.272
+55
+00:17:53,472 --> 00:17:57,272
 Lying does not befit
 a beautiful sultan like you.
 
-17:58.439 --> 18:01.439
+56
+00:17:58,439 --> 00:18:01,439
 Why do you think
 I know where the ark is?
 
-18:02.672 --> 18:05.872
+57
+00:18:02,672 --> 00:18:05,872
 Why would he give it to me
 if it is important like that?
 
-18:05.972 --> 18:09.572
+58
+00:18:05,972 --> 00:18:09,572
 He gave it to Ertugrul, not to you.
 
-18:10.705 --> 18:15.405
+59
+00:18:10,705 --> 00:18:15,405
 But since Ertugrul was wounded,
 Arabi handed the ark to you.
 
-18:18.439 --> 18:21.272
+60
+00:18:18,439 --> 00:18:21,272
 I will give you something
 before I leave.
 
-18:21.372 --> 18:24.605
+61
+00:18:21,372 --> 00:18:24,605
 You will give it to Ertugrul
 if he recovers before I come back.
 
-18:24.705 --> 18:26.772
+62
+00:18:24,705 --> 00:18:26,772
 Do not ever look inside it.
 
-18:26.872 --> 18:30.372
+63
+00:18:26,872 --> 00:18:30,372
 I will definitely protect it
 at the risk of my life.
 
-18:31.039 --> 18:33.772
+64
+00:18:31,039 --> 00:18:33,772
 I got you watched everywhere.
 
-18:33.872 --> 18:38.405
+65
+00:18:33,872 --> 00:18:38,405
 I know every step you took
 after Ertugrul recovered.
 
-18:40.805 --> 18:44.539
+66
+00:18:40,805 --> 00:18:44,539
 Now that you know
 every step we took...
 
-18:44.705 --> 18:47.472
+67
+00:18:44,705 --> 00:18:47,472
 ...you must know where I hid the ark.
 
-18:50.605 --> 18:54.772
+68
+00:18:50,605 --> 00:18:54,772
 Both you and your brother will die
 if you do not talk!
 
-19:01.305 --> 19:02.772
+69
+00:19:01,305 --> 00:19:02,772
 -Bey?
 -What is it?
 
-19:02.872 --> 19:06.239
+70
+00:19:02,872 --> 00:19:06,239
 Turgut Alp is back.
 His hands were covered with blood.
 
-19:06.305 --> 19:10.039
+71
+00:19:06,305 --> 00:19:10,039
 Tell him to wait in the marquee.
 I will go there.
 
-19:20.939 --> 19:22.639
+72
+00:19:20,939 --> 00:19:22,639
 Do you believe me now?
 
-19:23.539 --> 19:25.672
+73
+00:19:23,539 --> 00:19:25,672
 You do not have
 anyone left in your life.
 
-19:25.772 --> 19:27.239
+74
+00:19:25,772 --> 00:19:27,239
 Think carefully.
 
-19:27.905 --> 19:30.739
+75
+00:19:27,905 --> 00:19:30,739
 This is you and your brother's
 last chance.
 
-20:08.425 --> 20:10.025
+76
+00:20:08,425 --> 00:20:10,025
 Did you do it?
 
-20:10.625 --> 20:13.892
+77
+00:20:10,625 --> 00:20:13,892
 I did. They are all dead.
 
-20:13.992 --> 20:17.292
+78
+00:20:13,992 --> 00:20:17,292
 Tell me what happened.
 I want to know everything.
 
-20:18.858 --> 20:24.325
+79
+00:20:18,858 --> 00:20:24,325
 They found an opportunity
 to untie themselves.
 
-20:31.092 --> 20:33.325
+80
+00:20:31,092 --> 00:20:33,325
 They struggled to escape.
 
-20:34.425 --> 20:35.658
+81
+00:20:34,425 --> 00:20:35,658
 However...
 
-20:55.392 --> 20:57.825
+82
+00:20:55,392 --> 00:20:57,825
 -Turgut!
 -No!
 
-21:04.758 --> 21:06.558
+83
+00:21:04,758 --> 00:21:06,558
 None of them could escape.
 
-21:07.558 --> 21:09.325
+84
+00:21:07,558 --> 00:21:09,325
 Good.
 
-21:09.425 --> 21:11.392
+85
+00:21:09,425 --> 00:21:11,392
 What about my Alps?
 
-21:11.458 --> 21:12.925
+86
+00:21:11,458 --> 00:21:12,925
 They are all dead.
 
-21:13.792 --> 21:19.425
+87
+00:21:13,792 --> 00:21:19,425
 Both Alps and the Templars'
 that the Grandmaster sent for precaution.
 
-21:20.492 --> 21:21.658
+88
+00:21:20,492 --> 00:21:21,658
 They are dead.
 
-21:23.725 --> 21:26.892
+89
+00:21:23,725 --> 00:21:26,892
 Well, well, Suleyman Shah.
 
-21:26.992 --> 21:29.058
+90
+00:21:26,992 --> 00:21:29,058
 Your time is over.
 
-21:30.725 --> 21:33.792
+91
+00:21:30,725 --> 00:21:33,792
 Do not tell anybody anything
 about the Templars.
 
-21:33.858 --> 21:35.725
+92
+00:21:33,858 --> 00:21:35,725
 Of course, Bey.
 
-22:08.958 --> 22:10.858
+93
+00:22:08,958 --> 00:22:10,858
 Ayhan, did you hear something?
 
-22:10.925 --> 22:12.825
+94
+00:22:10,925 --> 00:22:12,825
 No, why did you ask?
 
-22:17.625 --> 22:19.525
+95
+00:22:17,625 --> 00:22:19,525
 You go, I will catch up with you.
 
-22:19.625 --> 22:22.058
+96
+00:22:19,625 --> 00:22:22,058
 Ayhan, do not get yourself into trouble.
 
-22:50.858 --> 22:52.392
+97
+00:22:50,858 --> 00:22:52,392
 Ertugrul Bey!
 
-23:05.658 --> 23:08.458
+98
+00:23:05,658 --> 00:23:08,458
 -Ayhan Alp.
 -Thank God you are alive.
 
-23:08.558 --> 23:11.358
+99
+00:23:08,558 --> 00:23:11,358
 That bastard sent Suleyman Shah to exile.
 
-23:13.092 --> 23:14.558
+100
+00:23:13,092 --> 00:23:14,558
 I know.
 
-23:16.392 --> 23:19.025
+101
+00:23:16,392 --> 00:23:19,025
 -I have a request from you.
 -Whatever you ask, Bey.
 
-23:19.658 --> 23:22.092
+102
+00:23:19,658 --> 00:23:22,092
 I can give my life
 for you and Suleyman Shah.
 
-23:22.325 --> 23:23.725
+103
+00:23:22,325 --> 00:23:23,725
 Thank you.
 
-23:24.725 --> 23:26.525
+104
+00:23:24,725 --> 00:23:26,525
 You will go to Kurdoglu.
 
-23:27.592 --> 23:31.392
+105
+00:23:27,592 --> 00:23:31,392
 You will say "If you want Ertugrul...
 
-23:32.058 --> 23:34.658
+106
+00:23:32,058 --> 00:23:34,658
 ...he will come and surrender to you.
 
-23:35.592 --> 23:37.025
+107
+00:23:35,592 --> 00:23:37,025
 However...
 
-23:37.292 --> 23:39.525
+108
+00:23:37,292 --> 00:23:39,525
 ...he has one condition.
 
-23:39.592 --> 23:41.658
+109
+00:23:39,592 --> 00:23:41,658
 He wants a headquarters meeting.
 
-23:41.725 --> 23:45.992
+110
+00:23:41,725 --> 00:23:45,992
 He wants to face you
 in front of the beys."
 
-23:46.058 --> 23:51.892
+111
+00:23:46,058 --> 00:23:51,892
 After that, if he still wants
 and if he still has enough power...
 
-23:53.458 --> 23:55.892
+112
+00:23:53,458 --> 00:23:55,892
 ...he will take my head.
 
-23:56.592 --> 23:58.725
+113
+00:23:56,592 --> 00:23:58,725
 Bey, what are you saying?
 
-23:58.825 --> 24:02.092
+114
+00:23:58,825 --> 00:24:02,092
 He overthrew my father
 with betrayal in his marquee.
 
-24:02.325 --> 24:06.458
+115
+00:24:02,325 --> 00:24:06,458
 And I will take the throne back
 in the same marquee by God's will.
 
-24:08.392 --> 24:09.758
+116
+00:24:08,392 --> 00:24:09,758
 This is my plan.
 
-24:13.025 --> 24:14.658
+117
+00:24:13,025 --> 00:24:14,658
 I want you to make Halime talk.
 
-24:14.725 --> 24:16.025
+118
+00:24:14,725 --> 00:24:16,025
 Do whatever is necessary.
 
-24:16.292 --> 24:17.958
+119
+00:24:16,292 --> 00:24:17,958
 Find out where the ark is.
 
-24:20.058 --> 24:21.558
+120
+00:24:20,058 --> 00:24:21,558
 Yes, Bey.
 
-24:23.392 --> 24:25.825
+121
+00:24:23,392 --> 00:24:25,825
 Go to Halime Sultan like this.
 
-24:27.025 --> 24:30.825
+122
+00:24:27,025 --> 00:24:30,825
 So that she will see how serious you are.
 
-24:42.892 --> 24:44.992
+123
+00:24:42,892 --> 00:24:44,992
 We are ready, Bey.
 We can set off.
 
-24:45.692 --> 24:48.058
+124
+00:24:45,692 --> 00:24:48,058
 Bring the Alps' corpses, Kutlu.
 
-24:48.292 --> 24:52.458
+125
+00:24:48,292 --> 00:24:52,458
 Let us organize a funeral
 worthy of their heroism.
 
-24:52.525 --> 24:56.425
+126
+00:24:52,525 --> 00:24:56,425
 Let us read Quran and shed tears.
 Let us grieve for them.
 
-24:56.492 --> 25:01.592
+127
+00:24:56,492 --> 00:25:01,592
 Let our people see how right I was
 to send Suleyman and his sons.
 
-25:02.092 --> 25:03.758
+128
+00:25:02,092 --> 00:25:03,758
 Let them admire me.
 
-25:04.592 --> 25:08.958
+129
+00:25:04,592 --> 00:25:08,958
 The pain of our lost Alps
 will unite our nomad tent even more.
 
-25:09.658 --> 25:11.492
+130
+00:25:09,658 --> 00:25:11,492
 What shall I do with them?
 
-25:13.025 --> 25:17.425
+131
+00:25:13,025 --> 00:25:17,425
 Suleyman Shah and his family,
 Wild Demir and his daughter...
 
-25:17.525 --> 25:20.325
+132
+00:25:17,525 --> 00:25:20,325
 ...feed wolves and birds with them.
 
-25:22.292 --> 25:25.592
+133
+00:25:22,292 --> 00:25:25,592
 So that their rotten flesh
 would be good for something.
 
-25:28.058 --> 25:30.325
+134
+00:25:28,058 --> 00:25:30,325
 Turgut... Let us go.
 
-26:01.925 --> 26:04.725
+135
+00:26:01,925 --> 00:26:04,725
 How could you let this persecution happen?
 
-26:04.892 --> 26:06.825
+136
+00:26:04,892 --> 00:26:06,825
 How could you do this?
 
-26:09.058 --> 26:10.925
+137
+00:26:09,058 --> 00:26:10,925
 They killed all of them.
 
-26:10.992 --> 26:13.558
+138
+00:26:10,992 --> 00:26:13,558
 Yes. They all died
 trying to rescue themselves.
 
-26:13.658 --> 26:16.092
+139
+00:26:13,658 --> 00:26:16,092
 What did they do to our tent?
 
-26:16.825 --> 26:19.825
+140
+00:26:16,825 --> 00:26:19,825
 Bey, they did not even have any swords.
 
-26:21.558 --> 26:24.992
+141
+00:26:21,558 --> 00:26:24,992
 It was clear that it was going to be
 like that. Look at our tent now.
 
-26:25.058 --> 26:28.358
+142
+00:26:25,058 --> 00:26:28,358
 Everybody! Do not stay here!
 
-26:29.091 --> 26:30.658
+143
+00:26:29,091 --> 00:26:30,658
 I said do not stay here!
 
-26:30.725 --> 26:34.692
+144
+00:26:30,725 --> 00:26:34,692
 Do you not have any other thing to do?
 I said do not stay here!
 
-26:36.925 --> 26:38.558
+145
+00:26:36,925 --> 00:26:38,558
 Go away!
 
-26:43.492 --> 26:46.058
+146
+00:26:43,492 --> 00:26:46,058
 It was clear that
 Kurdoglu would not let them live.
 
-26:46.292 --> 26:49.558
+147
+00:26:46,292 --> 00:26:49,558
 -He knew he would lose the throne.
 -He did it because he was scared.
 
-26:49.625 --> 26:51.525
+148
+00:26:49,625 --> 00:26:51,525
 -It is a shame.
 -He killed the women.
 
-26:51.625 --> 26:53.025
+149
+00:26:51,625 --> 00:26:53,025
 And poor Dundar.
 
-26:53.292 --> 26:56.358
+150
+00:26:53,292 --> 00:26:56,358
 Do not talk here like this.
 Somebody may hear.
 
-26:57.292 --> 26:58.625
+151
+00:26:57,292 --> 00:26:58,625
 Here he comes.
 
-27:27.658 --> 27:29.625
+152
+00:27:27,658 --> 00:27:29,625
 Bey, they are coming!
 
-28:17.925 --> 28:20.025
+153
+00:28:17,925 --> 00:28:20,025
 This is his head stooge, Kutlu.
 
-28:21.958 --> 28:23.492
+154
+00:28:21,958 --> 00:28:23,492
 Here we start.
 
-28:26.792 --> 28:28.692
+155
+00:28:26,792 --> 00:28:28,692
 You know what to do, Ayhan.
 
-28:28.758 --> 28:30.692
+156
+00:28:28,758 --> 00:28:30,692
 Do not worry, Bey.
 
-28:30.792 --> 28:33.792
+157
+00:28:30,792 --> 00:28:33,792
 Hide a sword under my seat in the meeting.
 
-28:33.858 --> 28:35.958
+158
+00:28:33,858 --> 00:28:35,958
 -This is what I want from you.
 -I understand, Bey.
 
-28:36.025 --> 28:38.425
+159
+00:28:36,025 --> 00:28:38,425
 I will take care of it.
 
-28:38.992 --> 28:41.358
+160
+00:28:38,992 --> 00:28:41,358
 -May God help you.
 -You too, Bey.
 
-29:11.558 --> 29:15.658
+161
+00:29:11,558 --> 00:29:15,658
 Turgut Alp will take care of you
 until you say where the ark is.
 
-29:16.592 --> 29:21.592
+162
+00:29:16,592 --> 00:29:21,592
 So that you can find out
 how Suleyman and his family passed away.
 
-29:22.658 --> 29:25.058
+163
+00:29:22,658 --> 00:29:25,058
 God will punish you all.
 
-29:40.725 --> 29:42.325
+164
+00:29:40,725 --> 00:29:42,325
 You...
 
-29:43.992 --> 29:46.892
+165
+00:29:43,992 --> 00:29:46,892
 You were Ertugrul Bey's closest friend.
 
-29:48.825 --> 29:50.625
+166
+00:29:48,825 --> 00:29:50,625
 You were his Alp.
 
-29:51.858 --> 29:53.625
+167
+00:29:51,858 --> 00:29:53,625
 You were his brother.
 
-29:55.758 --> 29:57.758
+168
+00:29:55,758 --> 00:29:57,758
 How could you do this?
 
-29:59.358 --> 30:02.325
+169
+00:29:59,358 --> 00:30:02,325
 How could you kill those people?
 
-30:07.992 --> 30:10.358
+170
+00:30:07,992 --> 00:30:10,358
 I can kill you too, Halime Sultan.
 
-30:11.625 --> 30:13.292
+171
+00:30:11,625 --> 00:30:13,292
 Tell me where the ark is.
 
-30:14.792 --> 30:17.892
+172
+00:30:14,792 --> 00:30:17,892
 I would not tell you
 even if I knew I would die.
 
-30:19.992 --> 30:22.058
+173
+00:30:19,992 --> 00:30:22,058
 If Ertugrul died...
 
-30:23.492 --> 30:25.992
+174
+00:30:23,492 --> 00:30:25,992
 ...I do not have a reason
 to live on anyway.
 
-30:26.792 --> 30:30.025
+175
+00:30:26,792 --> 00:30:30,025
 To kill me would be the best gift
 you could give me.
 
-30:37.525 --> 30:39.758
+176
+00:30:37,525 --> 00:30:39,758
 If you want your brother to live...
 
-30:40.958 --> 30:42.825
+177
+00:30:40,958 --> 00:30:42,825
 ...do not make me wait.
 
-30:44.992 --> 30:49.092
+178
+00:30:44,992 --> 00:30:49,092
 They will let
 neither me nor my brother live.
 
-30:50.725 --> 30:53.892
+179
+00:30:50,725 --> 00:30:53,892
 Yigit will live my father's fate
 even though he lives.
 
-30:54.492 --> 30:56.892
+180
+00:30:54,492 --> 00:30:56,892
 It would be better for him to die.
 
-30:57.558 --> 31:00.425
+181
+00:30:57,558 --> 00:31:00,425
 You will not hear even a word from me.
 
-31:03.458 --> 31:06.592
+182
+00:31:03,458 --> 00:31:06,592
 Turgut Alp, have fun.
 
-31:10.725 --> 31:13.392
+183
+00:31:10,725 --> 00:31:13,392
 Finish this before sunrise.
 
-31:45.958 --> 31:47.392
+184
+00:31:45,958 --> 00:31:47,392
 Bey...
 
-31:52.992 --> 31:54.758
+185
+00:31:52,992 --> 00:31:54,758
 What do you want, Ayhan?
 
-31:55.925 --> 31:58.358
+186
+00:31:55,925 --> 00:31:58,358
 Ertugrul has something to say to you.
 
-32:01.358 --> 32:03.958
+187
+00:32:01,358 --> 00:32:03,958
 What are you talking about?
 Where did this come from?
 
-32:04.292 --> 32:05.458
+188
+00:32:04,292 --> 00:32:05,458
 Where did he see him?
 
-32:05.525 --> 32:07.658
+189
+00:32:05,525 --> 00:32:07,658
 Bey, we were patrolling with the Alps.
 
-32:08.358 --> 32:10.358
+190
+00:32:08,358 --> 00:32:10,358
 He showed up suddenly.
 
-32:10.425 --> 32:12.692
+191
+00:32:10,425 --> 00:32:12,692
 This is impossible.
 
-32:12.792 --> 32:14.758
+192
+00:32:12,792 --> 00:32:14,758
 Do you hear what you say?
 
-32:14.825 --> 32:18.592
+193
+00:32:14,825 --> 00:32:18,592
 Bey, he was very angry.
 He put a knife on my throat.
 
-32:18.658 --> 32:21.058
+194
+00:32:18,658 --> 00:32:21,058
 Talk! Talk, man!
 
-32:21.458 --> 32:23.558
+195
+00:32:21,458 --> 00:32:23,558
 What does he want? Halime?
 
-32:23.658 --> 32:27.025
+196
+00:32:23,658 --> 00:32:27,025
 No, Bey. He wants to confront you
 in the headquarters.
 
-33:01.525 --> 33:07.892
+197
+00:33:01,525 --> 00:33:07,892
 I am scared of neither you nor Kurdoglu.
 
-33:22.858 --> 33:24.525
+198
+00:33:22,858 --> 00:33:24,525
 Get out.
 
-33:24.592 --> 33:25.658
+199
+00:33:24,592 --> 00:33:25,658
 But, Bey...
 
-33:25.758 --> 33:27.492
+200
+00:33:25,758 --> 00:33:27,492
 Get out!
 
-33:30.792 --> 33:32.292
+201
+00:33:30,792 --> 00:33:32,292
 Get out!
 
-34:19.992 --> 34:21.958
+202
+00:34:19,992 --> 00:34:21,958
 <i>I am not a traitor.</i>
 
-34:22.025 --> 34:24.358
+203
+00:34:22,025 --> 00:34:24,358
 <i>I did not betray my ancestor Oghuz.</i>
 
-34:24.492 --> 34:28.625
+204
+00:34:24,492 --> 00:34:28,625
 <i>The blood that spilled on my hands</i>
- <i>were for the future of Kayis.</i>
+<i>were for the future of Kayis.</i>
 
-34:28.725 --> 34:32.058
+205
+00:34:28,725 --> 00:34:32,058
 <i>It was to be stronger, bigger.</i>
 
-34:32.825 --> 34:35.525
+206
+00:34:32,825 --> 00:34:35,525
 <i>It was to have a land and to be powerful.</i>
 
-34:35.592 --> 34:37.792
+207
+00:34:35,592 --> 00:34:37,792
 May I come in, Bey?
 
-34:37.892 --> 34:39.525
+208
+00:34:37,892 --> 00:34:39,525
 Come in.
 
-34:47.558 --> 34:48.825
+209
+00:34:47,558 --> 00:34:48,825
 You ordered me, Bey?
 
-34:48.892 --> 34:51.525
+210
+00:34:48,892 --> 00:34:51,525
 You will go
 to the Templars' castle secretly.
 
-34:51.592 --> 34:53.558
+211
+00:34:51,592 --> 00:34:53,558
 You will tell them Ertugrul lives.
 
-34:53.758 --> 34:56.891
+212
+00:34:53,758 --> 00:34:56,891
 -Yes, Bey.
 -Come on, be quick!
 
-34:56.958 --> 34:58.625
+213
+00:34:56,958 --> 00:34:58,625
 Wait.
 
-34:59.792 --> 35:02.625
+214
+00:34:59,792 --> 00:35:02,625
 Get Ayhan Alp followed.
 
-35:02.692 --> 35:05.425
+215
+00:35:02,692 --> 00:35:05,425
 He clearly has a trouble.
 
-35:05.492 --> 35:07.658
+216
+00:35:05,492 --> 00:35:07,658
 I need to know every step he takes.
 
-35:14.725 --> 35:21.458
+217
+00:35:14,725 --> 00:35:21,458
 <i>These ominous infidels</i>
- <i>could not just beat that son of Suleyman.</i>
+<i>could not just beat that son of Suleyman.</i>
 
-35:21.725 --> 35:25.592
+218
+00:35:21,725 --> 00:35:25,592
 <i>But I will give him such a death...</i>
 
-36:28.325 --> 36:29.725
+219
+00:36:28,325 --> 00:36:29,725
 May I come in, Bey?
 
-36:29.792 --> 36:31.325
+220
+00:36:29,792 --> 00:36:31,325
 Come in, Karabudak.
 
-36:42.958 --> 36:46.425
+221
+00:36:42,958 --> 00:36:46,425
 They beys and the people are anxious.
 
-36:46.525 --> 36:49.058
+222
+00:36:46,525 --> 00:36:49,058
 The Alps are bothered.
 
-36:49.292 --> 36:54.058
+223
+00:36:49,292 --> 00:36:54,058
 They go around saying
 "How could we let such a thing happen?".
 
-36:57.625 --> 36:59.592
+224
+00:36:57,625 --> 00:36:59,592
 They need to be eased, Bey.
 
-37:00.425 --> 37:03.525
+225
+00:37:00,425 --> 00:37:03,525
 Otherwise, there will be
 even more blood spilled.
 
-37:04.558 --> 37:06.992
+226
+00:37:04,558 --> 00:37:06,992
 Be at ease, Karabudak.
 
-37:07.058 --> 37:09.958
+227
+00:37:07,058 --> 00:37:09,958
 I know very well what I am doing.
 
-37:10.025 --> 37:11.958
+228
+00:37:10,025 --> 00:37:11,958
 Send news to the beys.
 
-37:12.025 --> 37:14.358
+229
+00:37:12,025 --> 00:37:14,358
 I want them to come to my marquee
 in the afternoon.
 
-37:14.425 --> 37:15.858
+230
+00:37:14,425 --> 00:37:15,858
 Yes, Bey.
 
-37:39.058 --> 37:40.492
+231
+00:37:39,058 --> 00:37:40,492
 What do you want, Ayhan Alp?
 
-37:40.558 --> 37:41.992
+232
+00:37:40,558 --> 00:37:41,992
 Do you want to die?
 
-37:42.058 --> 37:45.592
+233
+00:37:42,058 --> 00:37:45,592
 Bey, I brought you
 greetings from Ertugrul Bey.
 
-38:14.525 --> 38:16.825
+234
+00:38:14,525 --> 00:38:16,825
 Where are these damn corpses?
 
-38:43.425 --> 38:45.325
+235
+00:38:43,425 --> 00:38:45,325
 Suleyman Shah?
 
-38:45.425 --> 38:48.758
+236
+00:38:45,425 --> 00:38:48,758
 What? You were not
 expecting us, were you?
 
-38:59.758 --> 39:03.825
+237
+00:38:59,758 --> 00:39:03,825
 Come on!
 What are you waiting for? Kill them!
 
-39:04.025 --> 39:07.658
+238
+00:39:04,025 --> 00:39:07,658
 -What are you waiting for? Come on!
 -Do not bellow like an ox!
 
-39:07.725 --> 39:09.625
+239
+00:39:07,725 --> 00:39:09,625
 Come and take our lives.
 
-39:09.725 --> 39:14.492
+240
+00:39:09,725 --> 00:39:14,492
 Come here.
 Come and learn by bitter experience.
 
-41:09.858 --> 41:12.425
+241
+00:41:09,858 --> 00:41:12,425
 Forgive...
 Forgive me, Suleyman Bey.
 
-41:13.458 --> 41:17.658
+242
+00:41:13,458 --> 00:41:17,658
 It would be an insult to mercy
 if I forgive you.
 
-41:22.925 --> 41:25.358
+243
+00:41:22,925 --> 00:41:25,358
 Feed birds and wolves with his corpse.
 
-41:25.425 --> 41:29.858
+244
+00:41:25,425 --> 00:41:29,858
 So that everybody sees what happens
 to the ones who try to destroy Kayi.
 
-42:33.592 --> 42:37.392
+245
+00:42:33,592 --> 00:42:37,392
 It is meaningless for me to live
 when my Yigit has died.
 
-42:39.025 --> 42:40.525
+246
+00:42:39,025 --> 00:42:40,525
 Kill me.
 
-43:04.058 --> 43:07.958
+247
+00:43:04,058 --> 00:43:07,958
 I brought you greetings
 from Ertugrul Bey.
 
-43:09.858 --> 43:11.658
+248
+00:43:09,858 --> 00:43:11,658
 Everybody is alright.
 
-43:12.092 --> 43:13.558
+249
+00:43:12,092 --> 00:43:13,558
 Do not worry.
 
-43:17.958 --> 43:19.825
+250
+00:43:17,958 --> 00:43:19,825
 We will all be saved.
 
-43:20.992 --> 43:22.725
+251
+00:43:20,992 --> 00:43:22,725
 Turgut...
 
-43:22.825 --> 43:24.792
+252
+00:43:22,825 --> 00:43:24,792
 How is this going to happen?
 
-43:25.358 --> 43:27.425
+253
+00:43:25,358 --> 00:43:27,425
 Let us be patient, sister.
 
-43:28.492 --> 43:32.392
+254
+00:43:28,492 --> 00:43:32,392
 Ertugrul will save both us and the tent.
 
-43:40.658 --> 43:44.658
+255
+00:43:40,658 --> 00:43:44,658
 {\an8}1 DAY AGO
 
-44:35.658 --> 44:37.392
+256
+00:44:35,658 --> 00:44:37,392
 We will camp here.
 
-46:59.758 --> 47:01.658
+257
+00:46:59,758 --> 00:47:01,658
 -Turgut!
 -No! Father!
 
-47:05.792 --> 47:08.058
+258
+00:47:05,792 --> 00:47:08,058
 -Turgut, do not do that!
 -Father!
 
-47:08.325 --> 47:10.525
+259
+00:47:08,325 --> 00:47:10,525
 Turgut!
 
-47:10.592 --> 47:12.092
+260
+00:47:10,592 --> 00:47:12,092
 Turgut, do not do that!
 
-47:12.325 --> 47:13.525
+261
+00:47:12,325 --> 00:47:13,525
 Turgut!
 
-47:13.625 --> 47:15.092
+262
+00:47:13,625 --> 00:47:15,092
 Turgut, no!
 
-47:16.358 --> 47:18.492
+263
+00:47:16,358 --> 00:47:18,492
 -Father!
 -Turgut!
 
-47:19.325 --> 47:21.425
+264
+00:47:19,325 --> 00:47:21,425
 At least, do not kill the women.
 
-47:21.492 --> 47:23.492
+265
+00:47:21,492 --> 00:47:23,492
 It would be a shame. A sin.
 
-47:23.958 --> 47:26.425
+266
+00:47:23,958 --> 00:47:26,425
 -Father!
 -Turgut!
 
-47:31.592 --> 47:33.992
+267
+00:47:31,592 --> 00:47:33,992
 -Turgut!
 -No!
 
-47:34.058 --> 47:35.592
+268
+00:47:34,058 --> 00:47:35,592
 Turgut!
 
-48:26.525 --> 48:27.692
+269
+00:48:26,525 --> 00:48:27,692
 Wild Demir!
 
-50:18.858 --> 50:20.992
+270
+00:50:18,858 --> 00:50:20,992
 Father! Gundogdu!
 
-53:12.625 --> 53:13.658
+271
+00:53:12,625 --> 00:53:13,658
 Brother...
 
-53:13.758 --> 53:15.292
+272
+00:53:13,758 --> 00:53:15,292
 My little brother!
 
-53:24.092 --> 53:25.925
+273
+00:53:24,092 --> 00:53:25,925
 Father, where is Halime?
 
-53:27.725 --> 53:30.092
+274
+00:53:27,725 --> 00:53:30,092
 Kurdoglu is holding her, son.
 
-53:36.525 --> 53:38.025
+275
+00:53:36,525 --> 00:53:38,025
 Turgut...
 
-53:38.992 --> 53:40.358
+276
+00:53:38,992 --> 00:53:40,358
 Turgut?
 
-53:40.458 --> 53:42.492
+277
+00:53:40,458 --> 00:53:42,492
 Are you alright?
 
-53:42.558 --> 53:44.525
+278
+00:53:42,558 --> 00:53:44,525
 Father, Turgut is...
 
-53:44.625 --> 53:46.692
+279
+00:53:44,625 --> 00:53:46,692
 -Turgut.
 -Turgut!
 
-53:46.758 --> 53:48.792
+280
+00:53:46,758 --> 00:53:48,792
 -Turgut!
 -Turgut!
 
-53:50.692 --> 53:52.458
+281
+00:53:50,692 --> 00:53:52,458
 -Turgut!
 -Turgut!
 
-53:52.658 --> 53:54.892
+282
+00:53:52,658 --> 00:53:54,892
 -Turgut!
 -Turgut!
 
-53:54.958 --> 53:56.492
+283
+00:53:54,958 --> 00:53:56,492
 What is going on?
 
-53:56.558 --> 53:58.358
+284
+00:53:56,558 --> 00:53:58,358
 -Turgut, son!
 -What is going on?
 
-53:58.458 --> 53:59.958
+285
+00:53:58,458 --> 00:53:59,958
 -Turgut!
 -Bring some water.
 
-54:00.458 --> 54:03.092
+286
+00:54:00,458 --> 00:54:03,092
 Turgut!
 
-54:12.858 --> 54:15.625
+287
+00:54:12,858 --> 00:54:15,625
 I have to go to the tent immediately.
 
-54:15.692 --> 54:19.525
+288
+00:54:15,692 --> 00:54:19,525
 Be patient. Let us talk about it first.
 
-54:19.925 --> 54:22.625
+289
+00:54:19,925 --> 00:54:22,625
 There must be another way.
 
-54:22.725 --> 54:24.392
+290
+00:54:22,725 --> 00:54:24,392
 Gundogdu is right.
 
-54:25.092 --> 54:26.992
+291
+00:54:25,092 --> 00:54:26,992
 We must act reasonably.
 
-54:28.025 --> 54:30.792
+292
+00:54:28,025 --> 00:54:30,792
 If we want to overcome this plague...
 
-54:30.858 --> 54:33.325
+293
+00:54:30,858 --> 00:54:33,325
 ...we cannot show weakness.
 
-54:33.392 --> 54:35.658
+294
+00:54:33,392 --> 00:54:35,658
 You must control your anger.
 
-54:41.925 --> 54:43.425
+295
+00:54:41,925 --> 00:54:43,425
 How is he?
 
-54:44.492 --> 54:46.025
+296
+00:54:44,492 --> 00:54:46,025
 He is in so much pain.
 
-54:50.392 --> 54:54.692
+297
+00:54:50,392 --> 00:54:54,692
 Kurdoglu brought him the drug
 in the cage that Templars gave him.
 
-54:55.525 --> 54:57.658
+298
+00:54:55,525 --> 00:54:57,658
 He did not drink it.
 
-54:58.425 --> 55:00.392
+299
+00:54:58,425 --> 00:55:00,392
 He struggled with himself.
 
-55:04.592 --> 55:06.892
+300
+00:55:04,592 --> 00:55:06,892
 If I ever catch you...
 
-55:06.992 --> 55:08.858
+301
+00:55:06,992 --> 00:55:08,858
 Oh, if I ever catch you...
 
-55:23.992 --> 55:25.825
+302
+00:55:23,992 --> 00:55:25,825
 Turgut.
 
-55:25.892 --> 55:27.492
+303
+00:55:25,892 --> 00:55:27,492
 Ertugrul Bey.
 
-55:27.558 --> 55:29.625
+304
+00:55:27,558 --> 00:55:29,625
 Do not get up. You are not well.
 
-55:31.958 --> 55:33.958
+305
+00:55:31,958 --> 00:55:33,958
 We have to save the tent.
 
-55:35.992 --> 55:37.958
+306
+00:55:35,992 --> 00:55:37,958
 I will not live any longer.
 
-55:39.292 --> 55:43.592
+307
+00:55:39,292 --> 00:55:43,592
 At least, I would like to do
 my last duty until I die.
 
-56:33.892 --> 56:35.825
+308
+00:56:33,892 --> 00:56:35,825
 God, help my Turgut.
 
-56:37.092 --> 56:38.958
+309
+00:56:37,092 --> 00:56:38,958
 Give him strength.
 
-56:46.292 --> 56:47.592
+310
+00:56:46,292 --> 00:56:47,592
 Aykiz.
 
-57:10.992 --> 57:13.492
+311
+00:57:10,992 --> 00:57:13,492
 If you die, you will be my pride.
 
-57:18.358 --> 57:20.692
+312
+00:57:18,358 --> 00:57:20,692
 I will not have a man anymore.
 
-57:22.292 --> 57:24.925
+313
+00:57:22,292 --> 00:57:24,925
 I will die with your memories.
 
-57:27.358 --> 57:29.925
+314
+00:57:27,358 --> 00:57:29,925
 However...
 
-57:31.425 --> 57:34.292
+315
+00:57:31,425 --> 00:57:34,292
 ...I am begging you,
 do not talk about dying.
 
-57:37.292 --> 57:39.292
+316
+00:57:37,292 --> 00:57:39,292
 Neither to me nor to yourself.
 
-57:44.025 --> 57:48.325
+317
+00:57:44,025 --> 00:57:48,325
 We will not let that ominous drug
 to take over you.
 
-57:49.692 --> 57:51.758
+318
+00:57:49,692 --> 00:57:51,758
 We will fight to death.
 
-57:55.692 --> 57:57.692
+319
+00:57:55,692 --> 00:57:57,692
 The two of us, together.
 
-57:59.492 --> 58:01.292
+320
+00:57:59,492 --> 00:58:01,292
 Do you understand me?
 
-58:10.858 --> 58:12.858
+321
+00:58:10,858 --> 00:58:12,858
 I promise...
 
-58:15.692 --> 58:17.758
+322
+00:58:15,692 --> 00:58:17,758
 ...I will not surrender.
 
-58:36.792 --> 58:43.792
+323
+00:58:36,792 --> 00:58:43,792
 {\an8}THE DAY OF THE MEETING
 
-58:44.592 --> 58:47.958
+324
+00:58:44,592 --> 00:58:47,958
 This matter will be closed today
 by God's will.
 
-58:49.025 --> 58:50.925
+325
+00:58:49,025 --> 00:58:50,925
 Thank God.
 
-58:50.992 --> 58:53.325
+326
+00:58:50,992 --> 00:58:53,325
 You have to be patient, Halime Sultan.
 
-58:53.425 --> 58:55.558
+327
+00:58:53,425 --> 00:58:55,558
 Turgut, this is very dangerous.
 
-58:56.558 --> 59:00.992
+328
+00:58:56,558 --> 00:59:00,992
 Ertugrul is alone, and you are still ill.
 
-59:01.992 --> 59:04.725
+329
+00:59:01,992 --> 00:59:04,725
 We do not have any other choice.
 
-59:21.392 --> 59:23.992
+330
+00:59:21,392 --> 00:59:23,992
 Ertugrul Bey sent you his greetings.
 
-59:24.092 --> 59:28.092
+331
+00:59:24,092 --> 00:59:28,092
 Do not worry,
 we will do whatever we can.
 
-59:29.758 --> 59:31.425
+332
+00:59:29,758 --> 00:59:31,425
 Thank you.
 
-59:32.658 --> 59:36.325
+333
+00:59:32,658 --> 00:59:36,325
 May God help us.
 
-59:44.658 --> 59:47.558
+334
+00:59:44,658 --> 00:59:47,558
 Turgut!
 
-59:50.092 --> 59:51.692
+335
+00:59:50,092 --> 00:59:51,692
 Turgut...
 
-59:54.625 --> 59:55.725
+336
+00:59:54,625 --> 00:59:55,725
 Alright.
 
-59:57.292 --> 59:58.725
+337
+00:59:57,292 --> 00:59:58,725
 I am alright.
 
-01:00:07.058 --> 01:00:09.025
+338
+01:00:07,058 --> 01:00:09,025
 Come on, let us go.
 
-01:00:24.358 --> 01:00:26.592
+339
+01:00:24,358 --> 01:00:26,592
 We do not have
 any other choice, father.
 
-01:00:26.658 --> 01:00:28.425
+340
+01:00:26,658 --> 01:00:28,425
 Kurdoglu must think we are dead.
 
-01:00:28.492 --> 01:00:31.492
+341
+01:00:28,492 --> 01:00:31,492
 This will increase
 our possibility to succeed.
 
-01:00:32.058 --> 01:00:35.792
+342
+01:00:32,058 --> 01:00:35,792
 If he finds out that we are alive...
 
-01:00:35.925 --> 01:00:38.992
+343
+01:00:35,925 --> 01:00:38,992
 ...he will let neither Ertugrul
 nor Turgut live.
 
-01:00:41.892 --> 01:00:43.825
+344
+01:00:41,892 --> 01:00:43,825
 My brother is right, father.
 
-01:00:44.958 --> 01:00:48.758
+345
+01:00:44,958 --> 01:00:48,758
 We have to do this
 before Kurdoglu finds out about the truth.
 
-01:00:50.658 --> 01:00:54.592
+346
+01:00:50,658 --> 01:00:54,592
 We must convince him
 to accept my participation to the meeting.
 
-01:00:54.692 --> 01:00:56.325
+347
+01:00:54,692 --> 01:00:56,325
 What if he does not?
 
-01:00:58.292 --> 01:01:00.858
+348
+01:00:58,292 --> 01:01:00,858
 Then, we will not have
 any other choice...
 
-01:01:00.992 --> 01:01:03.358
+349
+01:01:00,992 --> 01:01:03,358
 ...than going to all the Oghuz tents...
 
-01:01:03.458 --> 01:01:06.958
+350
+01:01:03,458 --> 01:01:06,958
 ...and look for brave men
 willing to fight.
 
-01:01:08.692 --> 01:01:11.792
+351
+01:01:08,692 --> 01:01:11,792
 None of us would accept
 so much blood to be spilled.
 
-01:01:17.425 --> 01:01:20.625
+352
+01:01:17,425 --> 01:01:20,625
 The beys would get themselves
 out from this darkness...
 
-01:01:20.725 --> 01:01:25.558
+353
+01:01:20,725 --> 01:01:25,558
 ...when Turgut tells what he went through
 in the castle and reveals Kurdoglu.
 
-01:01:26.558 --> 01:01:27.858
+354
+01:01:26,558 --> 01:01:27,858
 As my brother said...
 
-01:01:27.992 --> 01:01:31.458
+355
+01:01:27,992 --> 01:01:31,458
 ...none of us would accept
 more blood to be spilled.
 
-01:01:39.058 --> 01:01:41.692
+356
+01:01:39,058 --> 01:01:41,692
 I am also worried about Turgut's illness.
 
-01:01:42.658 --> 01:01:46.058
+357
+01:01:42,658 --> 01:01:46,058
 Ertugrul, watch out for
 both him and yourself.
 
-01:01:48.025 --> 01:01:49.558
+358
+01:01:48,025 --> 01:01:49,558
 Alright, brother.
 
-01:01:58.358 --> 01:02:02.725
+359
+01:01:58,358 --> 01:02:02,725
 Bey, Ertugrul walking around the tent
 is not a good sign.
 
-01:02:02.825 --> 01:02:04.058
+360
+01:02:02,825 --> 01:02:04,058
 Everybody is anxious.
 
-01:02:04.325 --> 01:02:06.625
+361
+01:02:04,325 --> 01:02:06,625
 Nobody can know how this will end.
 
-01:02:17.525 --> 01:02:20.425
+362
+01:02:17,525 --> 01:02:20,425
 Suleyman and his family died.
 
-01:02:20.492 --> 01:02:24.992
+363
+01:02:20,492 --> 01:02:24,992
 Are you afraid of Ertugrul
 who is left by himself with only two Alps?
 
-01:02:25.092 --> 01:02:27.758
+364
+01:02:25,092 --> 01:02:27,758
 We started this journey
 for the sake of our tent's peace.
 
-01:02:27.825 --> 01:02:29.825
+365
+01:02:27,825 --> 01:02:29,825
 We overcame so many challenges.
 
-01:02:31.792 --> 01:02:36.392
+366
+01:02:31,792 --> 01:02:36,392
 And now you started getting scared of that
 Ertugrul who does not know his place?
 
-01:02:36.458 --> 01:02:38.625
+367
+01:02:36,458 --> 01:02:38,625
 Is this your notion of being a bey?
 
-01:02:38.692 --> 01:02:40.958
+368
+01:02:38,692 --> 01:02:40,958
 Is this your notion of being a man?
 
-01:02:43.558 --> 01:02:47.958
+369
+01:02:43,558 --> 01:02:47,958
 Is there anybody who has something to say
 without getting ashamed?
 
-01:02:48.025 --> 01:02:49.325
+370
+01:02:48,025 --> 01:02:49,325
 I asked a question!
 
-01:02:49.392 --> 01:02:51.025
+371
+01:02:49,392 --> 01:02:51,025
 No, Bey.
 
-01:03:04.558 --> 01:03:07.025
+372
+01:03:04,558 --> 01:03:07,025
 Ertugrul wants to come to the meeting.
 
-01:03:07.492 --> 01:03:08.825
+373
+01:03:07,492 --> 01:03:08,825
 May him come, then.
 
-01:03:08.892 --> 01:03:11.025
+374
+01:03:08,892 --> 01:03:11,025
 And learn his lesson.
 
-01:03:13.892 --> 01:03:18.658
+375
+01:03:13,892 --> 01:03:18,658
 I will say all his lies one by one
 to his face...
 
-01:03:18.758 --> 01:03:22.058
+376
+01:03:18,758 --> 01:03:22,058
 ...and kill him with my own hands.
 
-01:03:46.929 --> 01:03:49.296
+377
+01:03:46,929 --> 01:03:49,296
 What are you talking about?
 
-01:03:52.362 --> 01:03:53.829
+378
+01:03:52,362 --> 01:03:53,829
 They all escaped?
 
-01:03:53.896 --> 01:03:59.096
+379
+01:03:53,896 --> 01:03:59,096
 Yes, sir. Ertugrul saved his family
 with Turgut.
 
-01:03:59.729 --> 01:04:01.696
+380
+01:03:59,729 --> 01:04:01,696
 All our knights are dead.
 
-01:04:16.362 --> 01:04:17.729
+381
+01:04:16,362 --> 01:04:17,729
 Get out of my face!
 
-01:04:26.462 --> 01:04:28.029
+382
+01:04:26,462 --> 01:04:28,029
 Stupid.
 
-01:04:29.329 --> 01:04:32.396
+383
+01:04:29,329 --> 01:04:32,396
 I told you to kill him
 when you caught him.
 
-01:04:36.862 --> 01:04:39.796
+384
+01:04:36,862 --> 01:04:39,796
 God damn old man.
 
-01:04:53.462 --> 01:04:55.729
+385
+01:04:53,462 --> 01:04:55,729
 Uncle, what are you doing?
 
-01:04:59.562 --> 01:05:03.362
+386
+01:04:59,562 --> 01:05:03,362
 I know you are a traitor
 just like your father.
 
-01:05:03.462 --> 01:05:07.629
+387
+01:05:03,462 --> 01:05:07,629
 I will kill you
 like your sister and father.
 
-01:05:09.462 --> 01:05:11.896
+388
+01:05:09,462 --> 01:05:11,896
 Take this bitch!
 
-01:05:19.996 --> 01:05:23.029
+389
+01:05:19,996 --> 01:05:23,029
 God damn you. Suffer forever.
 
-01:05:23.396 --> 01:05:26.562
+390
+01:05:23,396 --> 01:05:26,562
 -Sir, are you alright?
 -Get out! Get out!
 
-01:05:26.762 --> 01:05:27.962
+391
+01:05:26,762 --> 01:05:27,962
 Take her!
 
-01:06:01.462 --> 01:06:03.029
+392
+01:06:01,462 --> 01:06:03,029
 We must tell the situation
 to the Grandsmaster.
 
-01:06:03.296 --> 01:06:05.062
+393
+01:06:03,296 --> 01:06:05,062
 The Cardinal's man Claudius
 attacked us.
 
-01:06:05.362 --> 01:06:07.496
+394
+01:06:05,362 --> 01:06:07,496
 He saved Ertugrul and his Alps.
 
-01:06:07.596 --> 01:06:10.996
+395
+01:06:07,596 --> 01:06:10,996
 Do not worry. I let him know.
 He is about to come.
 
-01:06:33.996 --> 01:06:35.596
+396
+01:06:33,996 --> 01:06:35,596
 Take the corpse away.
 
-01:07:25.462 --> 01:07:26.896
+397
+01:07:25,462 --> 01:07:26,896
 Are you alright, sir?
 
-01:07:26.996 --> 01:07:28.496
+398
+01:07:26,996 --> 01:07:28,496
 I am, Titus.
 
-01:07:29.562 --> 01:07:31.296
+399
+01:07:29,562 --> 01:07:31,296
 Just a small wound.
 
-01:07:31.462 --> 01:07:32.929
+400
+01:07:31,462 --> 01:07:32,929
 That is all.
 
-01:07:34.996 --> 01:07:37.529
+401
+01:07:34,996 --> 01:07:37,529
 One of Kurdoglu's men is here.
 
-01:07:37.596 --> 01:07:39.829
+402
+01:07:37,596 --> 01:07:39,829
 He confirmed what the knight said.
 
-01:07:40.496 --> 01:07:42.796
+403
+01:07:40,496 --> 01:07:42,796
 Ertugrul is alive.
 
-01:07:44.762 --> 01:07:48.462
+404
+01:07:44,762 --> 01:07:48,462
 He will go to the meeting
 and confront Kurdoglu.
 
-01:07:48.562 --> 01:07:52.562
+405
+01:07:48,562 --> 01:07:52,562
 No. Suleyman's rule is over.
 
-01:07:53.729 --> 01:07:55.996
+406
+01:07:53,729 --> 01:07:55,996
 We must catch Ertugrul.
 
-01:07:56.729 --> 01:07:58.296
+407
+01:07:56,729 --> 01:07:58,296
 What about Turgut?
 
-01:07:58.729 --> 01:08:01.629
+408
+01:07:58,729 --> 01:08:01,629
 He is obviously with Ertugrul.
 
-01:08:03.062 --> 01:08:05.329
+409
+01:08:03,062 --> 01:08:05,329
 How can this be possible?
 
-01:08:05.496 --> 01:08:06.529
+410
+01:08:05,496 --> 01:08:06,529
 The drug...
 
-01:08:06.629 --> 01:08:10.696
+411
+01:08:06,629 --> 01:08:10,696
 The drug is powerful, but...
 
-01:08:11.796 --> 01:08:14.296
+412
+01:08:11,796 --> 01:08:14,296
 ...this is the power of faith, Titus.
 
-01:08:15.662 --> 01:08:17.862
+413
+01:08:15,662 --> 01:08:17,862
 This is the power of faith.
 
-01:08:18.529 --> 01:08:23.329
+414
+01:08:18,529 --> 01:08:23,329
 He will clearly die in a lot of pain
 because he did not take the drug.
 
-01:08:24.462 --> 01:08:30.396
+415
+01:08:24,462 --> 01:08:30,396
 But he can serve us the last time
 before he dies.
 
-01:08:32.562 --> 01:08:36.396
+416
+01:08:32,562 --> 01:08:36,396
 He can give us Ertugrul's head.
 
-01:08:38.429 --> 01:08:42.362
+417
+01:08:38,429 --> 01:08:42,362
 Ertugrul wants to overthrow Kurdoglu...
 
-01:08:42.929 --> 01:08:46.062
+418
+01:08:42,929 --> 01:08:46,062
 ...with Turgut's testimony.
 
-01:08:47.096 --> 01:08:52.429
+419
+01:08:47,096 --> 01:08:52,429
 He wants to take the throne back
 in front of the beys.
 
-01:08:52.996 --> 01:08:57.362
+420
+01:08:52,996 --> 01:08:57,362
 Let us see who overthrows whom.
 
-01:09:09.396 --> 01:09:12.529
+421
+01:09:09,396 --> 01:09:12,529
 -Did you bury the corpses?
 -Yes, sir.
 
-01:09:13.529 --> 01:09:14.929
+422
+01:09:13,529 --> 01:09:14,929
 Good.
 
-01:09:15.662 --> 01:09:17.729
+423
+01:09:15,662 --> 01:09:17,729
 What about Arabi?
 
-01:09:17.829 --> 01:09:21.529
+424
+01:09:17,829 --> 01:09:21,529
 He thinks I converted to Islam
 and became his disciple.
 
-01:09:24.929 --> 01:09:26.562
+425
+01:09:24,929 --> 01:09:26,562
 What about his ark?
 
-01:09:26.662 --> 01:09:29.396
+426
+01:09:26,662 --> 01:09:29,396
 I found out that it is in the nomad tent.
 
-01:09:30.062 --> 01:09:33.296
+427
+01:09:30,062 --> 01:09:33,296
 I saved Ertugrul and his Alps
 from the Grandmaster's knights...
 
-01:09:33.362 --> 01:09:35.929
+428
+01:09:33,362 --> 01:09:35,929
 ...in order to be able to take the ark.
 
-01:09:37.996 --> 01:09:41.096
+429
+01:09:37,996 --> 01:09:41,096
 Moreover, I know
 the Grandmaster knows this.
 
-01:09:44.096 --> 01:09:47.029
+430
+01:09:44,096 --> 01:09:47,029
 My dear friend Petruchio...
 
-01:09:47.896 --> 01:09:51.762
+431
+01:09:47,896 --> 01:09:51,762
 ...so you hide information from me.
 
-01:09:53.462 --> 01:09:55.029
+432
+01:09:53,462 --> 01:09:55,029
 That is all, sir.
 
-01:09:57.429 --> 01:10:00.829
+433
+01:09:57,429 --> 01:10:00,829
 You are the best knight I have ever known.
 
-01:10:01.796 --> 01:10:03.996
+434
+01:10:01,796 --> 01:10:03,996
 May God protect you, son.
 
-01:10:14.529 --> 01:10:17.562
+435
+01:10:14,529 --> 01:10:17,562
 God will punish you so bad...
 
-01:10:19.029 --> 01:10:23.762
+436
+01:10:19,029 --> 01:10:23,762
 ...that you will pay the price
 of the sins you committed.
 
-01:10:46.062 --> 01:10:47.729
+437
+01:10:46,062 --> 01:10:47,729
 Turk!
 
-01:10:54.662 --> 01:10:56.596
+438
+01:10:54,662 --> 01:10:56,596
 You will send a message
 to Kurdoglu.
 
-01:10:56.662 --> 01:11:01.362
+439
+01:10:56,662 --> 01:11:01,362
 Tell him that
 we want Halime Sultan and Turgut.
 
-01:11:01.962 --> 01:11:07.462
+440
+01:11:01,962 --> 01:11:07,462
 Tell Kurdoglu that all his family escaped.
 
-01:11:08.562 --> 01:11:12.029
+441
+01:11:08,562 --> 01:11:12,029
 And that the two of them is behind this.
 
-01:11:12.329 --> 01:11:17.296
+442
+01:11:12,329 --> 01:11:17,296
 Be quick. You must arrive
 before their meeting.
 
-01:11:18.562 --> 01:11:20.029
+443
+01:11:18,562 --> 01:11:20,029
 Go now.
 
-01:12:20.496 --> 01:12:22.496
+444
+01:12:20,496 --> 01:12:22,496
 Jesus Christ...
 
-01:12:22.596 --> 01:12:26.096
+445
+01:12:22,596 --> 01:12:26,096
 ...help them in their fight
 against the persecutors.
 
-01:12:26.329 --> 01:12:28.629
+446
+01:12:26,329 --> 01:12:28,629
 Make Ertugrul gain a victory.
 
-01:12:29.862 --> 01:12:32.829
+447
+01:12:29,862 --> 01:12:32,829
 Enlighten their way
 with your divine justice.
 
-01:12:55.996 --> 01:12:57.829
+448
+01:12:55,996 --> 01:12:57,829
 God, forgive my sins.
 
-01:13:26.862 --> 01:13:28.329
+449
+01:13:26,862 --> 01:13:28,329
 Isadora?
 
-01:13:29.496 --> 01:13:30.929
+450
+01:13:29,496 --> 01:13:30,929
 Isadora!
 
-01:13:31.829 --> 01:13:33.529
+451
+01:13:31,829 --> 01:13:33,529
 Isadora!
 
-01:13:34.696 --> 01:13:36.562
+452
+01:13:34,696 --> 01:13:36,562
 Isadora!
 
-01:13:53.462 --> 01:13:57.396
+453
+01:13:53,462 --> 01:13:57,396
 My beautiful niece
 paid the price of her betrayal.
 
-01:13:57.996 --> 01:13:59.862
+454
+01:13:57,996 --> 01:13:59,862
 Murderer!
 
-01:13:59.929 --> 01:14:01.362
+455
+01:13:59,929 --> 01:14:01,362
 She was your blood.
 
-01:14:01.429 --> 01:14:04.762
+456
+01:14:01,429 --> 01:14:04,762
 She was from bad blood.
 
-01:14:04.829 --> 01:14:06.096
+457
+01:14:04,829 --> 01:14:06,096
 And she died.
 
-01:14:06.796 --> 01:14:11.462
+458
+01:14:06,796 --> 01:14:11,462
 You have been given a last chance
 to live, Shahzade.
 
-01:14:12.629 --> 01:14:16.829
+459
+01:14:12,629 --> 01:14:16,829
 You will go to Konstantiniyye
 with Cardinal Thomas.
 
-01:14:17.596 --> 01:14:21.096
+460
+01:14:17,596 --> 01:14:21,096
 Otherwise, you will die like Isadora.
 
-01:14:22.996 --> 01:14:24.596
+461
+01:14:22,996 --> 01:14:24,596
 Think thoroughly.
 
-01:14:24.796 --> 01:14:27.696
+462
+01:14:24,796 --> 01:14:27,696
 I would rather die instead of serving you.
 
-01:14:27.796 --> 01:14:30.062
+463
+01:14:27,796 --> 01:14:30,062
 We will see...
 
-01:14:30.329 --> 01:14:33.429
+464
+01:14:30,329 --> 01:14:33,429
 ...how much longer
 you will talk like that.
 
-01:14:58.929 --> 01:15:00.562
+465
+01:14:58,929 --> 01:15:00,562
 Be very careful.
 
-01:15:01.529 --> 01:15:02.762
+466
+01:15:01,529 --> 01:15:02,762
 The war begins now.
 
-01:15:03.296 --> 01:15:04.496
+467
+01:15:03,296 --> 01:15:04,496
 Yes, Bey.
 
-01:15:39.296 --> 01:15:41.862
+468
+01:15:39,296 --> 01:15:41,862
 Thank God you are alive.
 
-01:15:41.929 --> 01:15:44.496
+469
+01:15:41,929 --> 01:15:44,496
 You made me so happy.
 
-01:15:44.562 --> 01:15:46.896
+470
+01:15:44,562 --> 01:15:46,896
 We are all ready to die for you.
 
-01:15:48.996 --> 01:15:53.029
+471
+01:15:48,996 --> 01:15:53,029
 Did Kurdoglu accept
 confronting Ertugrul in the meeting?
 
-01:15:53.296 --> 01:15:54.562
+472
+01:15:53,296 --> 01:15:54,562
 He did, Bey.
 
-01:15:54.662 --> 01:15:55.896
+473
+01:15:54,662 --> 01:15:55,896
 I will go there.
 
-01:15:56.829 --> 01:16:00.529
+474
+01:15:56,829 --> 01:16:00,529
 He promised that
 he will be fair to you in the meeting.
 
-01:16:02.896 --> 01:16:06.096
+475
+01:16:02,896 --> 01:16:06,096
 I am sure he will do
 as much as he can for the sake of justice.
 
-01:16:06.396 --> 01:16:08.796
+476
+01:16:06,396 --> 01:16:08,796
 None of us wanted this happen, Bey.
 
-01:16:08.896 --> 01:16:12.929
+477
+01:16:08,896 --> 01:16:12,929
 We are all ready to give our heads
 for the sake of justice.
 
-01:16:13.862 --> 01:16:15.696
+478
+01:16:13,862 --> 01:16:15,696
 Thank you.
 
-01:16:15.796 --> 01:16:17.562
+479
+01:16:15,796 --> 01:16:17,562
 We do not doubt about it.
 
-01:16:17.662 --> 01:16:21.062
+480
+01:16:17,662 --> 01:16:21,062
 You proved this
 by coming here, anyway.
 
-01:16:22.029 --> 01:16:24.662
+481
+01:16:22,029 --> 01:16:24,662
 May God protect our tent.
 
-01:16:24.762 --> 01:16:25.896
+482
+01:16:24,762 --> 01:16:25,896
 -Amen.
 -Amen.
 
-01:16:25.996 --> 01:16:27.562
+483
+01:16:25,996 --> 01:16:27,562
 Amen.
 
-01:17:03.529 --> 01:17:05.362
+484
+01:17:03,529 --> 01:17:05,362
 Come here, Halime Sultan.
 
-01:17:10.562 --> 01:17:12.029
+485
+01:17:10,562 --> 01:17:12,029
 Sit down.
 
-01:17:13.096 --> 01:17:15.462
+486
+01:17:13,096 --> 01:17:15,462
 May their hands break.
 
-01:17:15.529 --> 01:17:18.929
+487
+01:17:15,529 --> 01:17:18,929
 That bastard Turgut
 did so many bad things to you.
 
-01:17:19.896 --> 01:17:23.296
+488
+01:17:19,896 --> 01:17:23,296
 First he beat you,
 then he sent me to take care of you.
 
-01:17:23.429 --> 01:17:25.529
+489
+01:17:23,429 --> 01:17:25,529
 Ugly face.
 
-01:17:26.296 --> 01:17:28.096
+490
+01:17:26,296 --> 01:17:28,096
 No, I am alright.
 
-01:17:29.296 --> 01:17:31.562
+491
+01:17:29,296 --> 01:17:31,562
 It is all because of Selcan Hatun.
 
-01:17:33.362 --> 01:17:34.962
+492
+01:17:33,362 --> 01:17:34,962
 Hold on there, Eydis.
 
-01:17:36.996 --> 01:17:39.362
+493
+01:17:36,996 --> 01:17:39,362
 What are you going to say?
 
-01:17:41.462 --> 01:17:46.062
+494
+01:17:41,462 --> 01:17:46,062
 Whatever. She is dead now
 with all her sins.
 
-01:17:46.462 --> 01:17:48.796
+495
+01:17:46,462 --> 01:17:48,796
 It would not be appropriate for me
 to talk ill about her.
 
-01:17:48.896 --> 01:17:50.396
+496
+01:17:48,896 --> 01:17:50,396
 Say it, Eydis!
 
-01:17:50.496 --> 01:17:52.329
+497
+01:17:50,496 --> 01:17:52,329
 Say what you have to say.
 
-01:17:55.729 --> 01:17:58.362
+498
+01:17:55,729 --> 01:17:58,362
 She was such an ominous woman.
 
-01:18:00.029 --> 01:18:06.829
+499
+01:18:00,029 --> 01:18:06,829
 When Alpargu stabbed
 late Gokce Hatun on her groin...
 
-01:18:07.496 --> 01:18:09.962
+500
+01:18:07,496 --> 01:18:09,962
 ...she wanted to get her married with
 Ertugrul Bey...
 
-01:18:10.029 --> 01:18:13.529
+501
+01:18:10,029 --> 01:18:13,529
 ...even though she knew
 she was not going to have a baby.
 
-01:18:14.396 --> 01:18:17.096
+502
+01:18:14,396 --> 01:18:17,096
 She gave me gold money
 to prevent me talk.
 
-01:18:17.729 --> 01:18:20.796
+503
+01:18:17,729 --> 01:18:20,796
 And I took them with these
 ominous hands of mine.
 
-01:18:23.096 --> 01:18:25.462
+504
+01:18:23,096 --> 01:18:25,462
 And that baby matter...
 
-01:18:26.096 --> 01:18:27.829
+505
+01:18:26,096 --> 01:18:27,829
 What about the baby?
 
-01:18:27.929 --> 01:18:32.496
+506
+01:18:27,929 --> 01:18:32,496
 I was suspicious of her pregnancy
 in spite of being an infertile woman.
 
-01:18:33.329 --> 01:18:37.329
+507
+01:18:33,329 --> 01:18:37,329
 And she whipped Aykiz
 because she lost her baby.
 
-01:18:38.762 --> 01:18:41.729
+508
+01:18:38,762 --> 01:18:41,729
 Anyway. God forgive her sins.
 
-01:18:42.429 --> 01:18:44.629
+509
+01:18:42,429 --> 01:18:44,629
 Let me go if you are alright.
 
-01:18:52.596 --> 01:18:55.596
+510
+01:18:52,596 --> 01:18:55,596
 There will not be peace
 in a place like this...
 
-01:18:56.596 --> 01:18:58.729
+511
+01:18:56,596 --> 01:18:58,729
 ...where there are such sins...
 
-01:18:58.796 --> 01:19:03.829
+512
+01:18:58,796 --> 01:19:03,829
 ...and pathetic people like me
 who do bad things for money.
 
-01:19:05.029 --> 01:19:06.996
+513
+01:19:05,029 --> 01:19:06,996
 God forgive our sins.
 
-01:19:20.062 --> 01:19:22.396
+514
+01:19:20,062 --> 01:19:22,396
 You cannot trust Kurdoglu's promise.
 
-01:19:22.496 --> 01:19:24.829
+515
+01:19:22,496 --> 01:19:24,829
 We talked about this, father.
 
-01:19:24.896 --> 01:19:26.962
+516
+01:19:24,896 --> 01:19:26,962
 He thinks all of you are dead.
 
-01:19:28.496 --> 01:19:30.396
+517
+01:19:28,496 --> 01:19:30,396
 I have to do this alone.
 
-01:19:30.496 --> 01:19:32.862
+518
+01:19:30,496 --> 01:19:32,862
 Ayhan talked to the beys
 who are close to us.
 
-01:19:32.929 --> 01:19:34.762
+519
+01:19:32,929 --> 01:19:34,762
 And with the Alps.
 
-01:19:34.829 --> 01:19:37.862
+520
+01:19:34,829 --> 01:19:37,862
 Do not worry.
 I will not be alone in the tent.
 
-01:19:38.796 --> 01:19:41.896
+521
+01:19:38,796 --> 01:19:41,896
 Turgut will be waiting for me
 in the marquee.
 
-01:19:44.929 --> 01:19:47.929
+522
+01:19:44,929 --> 01:19:47,929
 If anything happens to me...
 
-01:19:49.462 --> 01:19:51.096
+523
+01:19:49,462 --> 01:19:51,096
 ...take care of Halime.
 
-01:19:54.996 --> 01:19:56.529
+524
+01:19:54,996 --> 01:19:56,529
 Give me your blessings.
 
-01:19:57.396 --> 01:19:58.796
+525
+01:19:57,396 --> 01:19:58,796
 You have it.
 
-01:20:07.762 --> 01:20:09.562
+526
+01:20:07,762 --> 01:20:09,562
 May God protect you.
 
-01:20:29.062 --> 01:20:30.896
+527
+01:20:29,062 --> 01:20:30,896
 Peace be upon you.
 
-01:20:30.962 --> 01:20:32.396
+528
+01:20:30,962 --> 01:20:32,396
 And peace be upon you.
 
-01:20:32.529 --> 01:20:34.396
+529
+01:20:32,529 --> 01:20:34,396
 Peace be upon you.
 
-01:20:34.862 --> 01:20:36.929
+530
+01:20:34,862 --> 01:20:36,929
 Thank you so much.
 
-01:20:37.029 --> 01:20:38.829
+531
+01:20:37,029 --> 01:20:38,829
 You sent help with Omer.
 
-01:20:38.929 --> 01:20:41.329
+532
+01:20:38,929 --> 01:20:41,329
 Thank you, son.
 
-01:20:42.096 --> 01:20:44.462
+533
+01:20:42,096 --> 01:20:44,462
 Where are you going?
 
-01:20:44.529 --> 01:20:45.829
+534
+01:20:44,529 --> 01:20:45,829
 To the tent.
 
-01:20:45.896 --> 01:20:48.096
+535
+01:20:45,896 --> 01:20:48,096
 I am going to take what we deserve.
 
-01:20:48.396 --> 01:20:53.562
+536
+01:20:48,396 --> 01:20:53,562
 Stay on God's path,
 and he will be with you.
 
-01:20:54.762 --> 01:20:58.329
+537
+01:20:54,762 --> 01:20:58,329
 The victory belongs to God
 even though our blood may be spilled.
 
-01:20:58.462 --> 01:20:59.962
+538
+01:20:58,462 --> 01:20:59,962
 Hopefully.
 
-01:22:09.329 --> 01:22:10.896
+539
+01:22:09,329 --> 01:22:10,896
 Excuse us.
 
-01:22:26.829 --> 01:22:29.096
+540
+01:22:26,829 --> 01:22:29,096
 Turgut!
 
-01:22:37.829 --> 01:22:40.062
+541
+01:22:37,829 --> 01:22:40,062
 Did Halime Sultan talk?
 
-01:22:41.596 --> 01:22:43.329
+542
+01:22:41,596 --> 01:22:43,329
 Not yet.
 
-01:22:44.596 --> 01:22:47.496
+543
+01:22:44,596 --> 01:22:47,496
 But she will.
 
-01:22:47.596 --> 01:22:49.829
+544
+01:22:47,596 --> 01:22:49,829
 Listen to me carefully, Turgut.
 
-01:22:50.762 --> 01:22:54.062
+545
+01:22:50,762 --> 01:22:54,062
 I have a good idea to make her talk.
 
-01:22:54.296 --> 01:22:56.696
+546
+01:22:54,296 --> 01:22:56,696
 You will take a walk with her.
 
-01:23:02.429 --> 01:23:03.929
+547
+01:23:02,429 --> 01:23:03,929
 Go.
 
-01:23:04.662 --> 01:23:06.429
+548
+01:23:04,662 --> 01:23:06,429
 Yes, Bey.
 
-01:23:57.529 --> 01:23:59.462
+549
+01:23:57,529 --> 01:23:59,462
 Ertugrul warned me a lot.
 
-01:23:59.962 --> 01:24:01.529
+550
+01:23:59,962 --> 01:24:01,529
 Also, you.
 
-01:24:02.896 --> 01:24:07.062
+551
+01:24:02,896 --> 01:24:07,062
 All the things you said about Kurdoglu
 turned out to be right.
 
-01:24:07.329 --> 01:24:10.829
+552
+01:24:07,329 --> 01:24:10,829
 It was a big mistake for me
 not to listen to him back then.
 
-01:24:14.896 --> 01:24:17.862
+553
+01:24:14,896 --> 01:24:17,862
 He said he did not want justice
 to be hurt.
 
-01:24:17.962 --> 01:24:19.596
+554
+01:24:17,962 --> 01:24:19,596
 He was right.
 
-01:24:20.729 --> 01:24:24.829
+555
+01:24:20,729 --> 01:24:24,829
 May the justice not be hurt.
 We can accept to be hurt.
 
-01:24:26.429 --> 01:24:29.396
+556
+01:24:26,429 --> 01:24:29,396
 May God protect us from the shame...
 
-01:24:29.462 --> 01:24:34.929
+557
+01:24:29,462 --> 01:24:34,929
 ...of forcing our children
 live in a place where there is no justice.
 
-01:24:41.296 --> 01:24:43.329
+558
+01:24:41,296 --> 01:24:43,329
 Everything will be alright.
 
-01:24:44.062 --> 01:24:45.662
+559
+01:24:44,062 --> 01:24:45,662
 It is Friday today.
 
-01:24:48.062 --> 01:24:51.062
+560
+01:24:48,062 --> 01:24:51,062
 God does justice to innocent people.
 
-01:24:56.796 --> 01:24:59.029
+561
+01:24:56,796 --> 01:24:59,029
 May God keep you always with me.
 
-01:25:21.096 --> 01:25:22.829
+562
+01:25:21,096 --> 01:25:22,829
 My girl...
 
-01:25:25.062 --> 01:25:27.429
+563
+01:25:25,062 --> 01:25:27,429
 Do you need anything, father?
 
-01:25:27.496 --> 01:25:29.362
+564
+01:25:27,496 --> 01:25:29,362
 Thank you.
 
-01:25:29.429 --> 01:25:31.529
+565
+01:25:29,429 --> 01:25:31,529
 How is Gundogdu doing?
 
-01:25:35.429 --> 01:25:38.396
+566
+01:25:35,429 --> 01:25:38,396
 He is trying to get rid of the
 poison inside him.
 
-01:25:38.462 --> 01:25:40.729
+567
+01:25:38,462 --> 01:25:40,729
 He will be alright in a few days.
 
-01:25:52.529 --> 01:25:56.729
+568
+01:25:52,529 --> 01:25:56,729
 Selcan became a good daughter suddenly.
 What do you say?
 
-01:26:01.429 --> 01:26:07.729
+569
+01:26:01,429 --> 01:26:07,729
 She was disciplined by the situation
 of first her sister, then her man.
 
-01:26:10.396 --> 01:26:12.929
+570
+01:26:10,396 --> 01:26:12,929
 I hope you are right.
 
-01:26:48.829 --> 01:26:51.329
+571
+01:26:48,829 --> 01:26:51,329
 Do you think he will recover?
 
-01:26:51.396 --> 01:26:53.296
+572
+01:26:51,396 --> 01:26:53,296
 God knows.
 
-01:26:53.429 --> 01:26:54.929
+573
+01:26:53,429 --> 01:26:54,929
 Let us pray.
 
-01:26:56.596 --> 01:26:59.629
+574
+01:26:56,596 --> 01:26:59,629
 God, forgive me.
 
-01:27:05.096 --> 01:27:08.662
+575
+01:27:05,096 --> 01:27:08,662
 You have to deserve to be forgiven first.
 
-01:27:10.096 --> 01:27:12.396
+576
+01:27:10,096 --> 01:27:12,396
 How can I deserve that?
 
-01:27:14.462 --> 01:27:16.062
+577
+01:27:14,462 --> 01:27:16,062
 My daughter...
 
-01:27:16.329 --> 01:27:19.596
+578
+01:27:16,329 --> 01:27:19,596
 ...if you want to deserve
 to be forgiven...
 
-01:27:19.729 --> 01:27:22.662
+579
+01:27:19,729 --> 01:27:22,662
 ...you need to cleanse your heart first.
 
-01:27:22.762 --> 01:27:25.396
+580
+01:27:22,762 --> 01:27:25,396
 The heart is our valuable asset.
 
-01:27:26.496 --> 01:27:31.962
+581
+01:27:26,496 --> 01:27:31,962
 Our Prophet told us that
 God says...
 
-01:27:33.296 --> 01:27:35.996
+582
+01:27:33,296 --> 01:27:35,996
 ..."The heavens and the earth
 cannot contain Me...
 
-01:27:36.062 --> 01:27:39.329
+583
+01:27:36,062 --> 01:27:39,329
 ...but the heart of a true believer can."
 
-01:27:39.462 --> 01:27:42.696
+584
+01:27:39,462 --> 01:27:42,696
 Therefore, this heart of ours...
 
-01:27:43.462 --> 01:27:45.862
+585
+01:27:43,462 --> 01:27:45,862
 ...is the biggest treasure of human.
 
-01:27:46.729 --> 01:27:47.862
+586
+01:27:46,729 --> 01:27:47,862
 My daughter...
 
-01:27:47.996 --> 01:27:50.496
+587
+01:27:47,996 --> 01:27:50,496
 ...if you wish to be forgiven...
 
-01:27:51.062 --> 01:27:53.896
+588
+01:27:51,062 --> 01:27:53,896
 ...be like Hazrat Khadija.
 
-01:27:55.896 --> 01:27:58.596
+589
+01:27:55,896 --> 01:27:58,596
 Hazrat Khadija challenged
 all the non-believers...
 
-01:27:58.729 --> 01:28:05.029
+590
+01:27:58,729 --> 01:28:05,029
 ...with our Prophet
 when the spread of Islam began.
 
-01:28:05.662 --> 01:28:09.696
+591
+01:28:05,662 --> 01:28:09,696
 She wanted to be the ointment
 when his heart was broken.
 
-01:28:10.462 --> 01:28:13.596
+592
+01:28:10,462 --> 01:28:13,596
 She spent her money
 to spread her husband's cause.
 
-01:28:14.096 --> 01:28:16.996
+593
+01:28:14,096 --> 01:28:16,996
 She believed him when others did not.
 
-01:28:17.496 --> 01:28:22.796
+594
+01:28:17,496 --> 01:28:22,796
 She supported him
 while everybody was avoiding him.
 
-01:28:23.996 --> 01:28:28.896
+595
+01:28:23,996 --> 01:28:28,896
 And God granted our Prophet
 children from her.
 
-01:28:31.429 --> 01:28:35.362
+596
+01:28:31,429 --> 01:28:35,362
 Therefore,
 let Hazrat Khadija be your guide.
 
-01:29:10.896 --> 01:29:12.596
+597
+01:29:10,896 --> 01:29:12,596
 What is going on, Turgut?
 
-01:29:12.696 --> 01:29:14.329
+598
+01:29:12,696 --> 01:29:14,329
 Where are we going?
 
-01:29:14.962 --> 01:29:17.896
+599
+01:29:14,962 --> 01:29:17,896
 This is not good at all, Halime Sultan.
 
-01:29:18.762 --> 01:29:21.362
+600
+01:29:18,762 --> 01:29:21,362
 Something is wrong.
 
-01:29:31.696 --> 01:29:34.996
+601
+01:29:31,696 --> 01:29:34,996
 What is going on?
 Where did we come here?
 
-01:29:36.996 --> 01:29:41.396
+602
+01:29:36,996 --> 01:29:41,396
 We will go to the tent,
 and you will go to the castle.
 
-01:30:05.796 --> 01:30:07.029
+603
+01:30:05,796 --> 01:30:07,029
 Turgut!
 
-01:42:22.603 --> 01:42:25.770
+604
+01:42:22,603 --> 01:42:25,770
 God, help my son.
 
-01:42:27.303 --> 01:42:30.603
+605
+01:42:27,303 --> 01:42:30,603
 Help him, so that
 the persecution will be over.
 
-01:42:31.037 --> 01:42:32.370
+606
+01:42:31,037 --> 01:42:32,370
 -Amen.
 -Amen.
 
-01:42:32.470 --> 01:42:36.170
+607
+01:42:32,470 --> 01:42:36,170
 God granted him a conquest for sure.
 
-01:42:37.303 --> 01:42:39.603
+608
+01:42:37,303 --> 01:42:39,603
 Our Prophet set off to Taif...
 
-01:42:39.703 --> 01:42:42.503
+609
+01:42:39,703 --> 01:42:42,503
 ...in order to find
 a peaceful land for the believers...
 
-01:42:42.603 --> 01:42:46.770
+610
+01:42:42,603 --> 01:42:46,770
 ...when the persecutions of the
 non-believers in Macca increased.
 
-01:42:47.737 --> 01:42:52.637
+611
+01:42:47,737 --> 01:42:52,637
 Taif did not see the grace even though
 there were high hopes about them.
 
-01:42:52.803 --> 01:42:57.503
+612
+01:42:52,803 --> 01:42:57,503
 Our Prophet did not lose hope
 when all doors were shut on his face.
 
-01:42:58.670 --> 01:43:01.203
+613
+01:42:58,670 --> 01:43:01,203
 He struggles on
 to make his cause be heard...
 
-01:43:01.303 --> 01:43:05.270
+614
+01:43:01,303 --> 01:43:05,270
 ...and to be able to make
 even one person a believer.
 
-01:43:06.170 --> 01:43:11.503
+615
+01:43:06,170 --> 01:43:11,503
 However, the people of Taif
 threw stones at him. They persecuted.
 
-01:43:12.570 --> 01:43:16.837
+616
+01:43:12,570 --> 01:43:16,837
 Our Prophet went outside Taif, wounded.
 
-01:43:17.770 --> 01:43:19.770
+617
+01:43:17,770 --> 01:43:19,770
 Angel Jibreel showed up.
 
-01:43:20.603 --> 01:43:24.637
+618
+01:43:20,603 --> 01:43:24,637
 He said they would destroy Taif
 if our Prophet wanted.
 
-01:43:26.137 --> 01:43:30.637
+619
+01:43:26,137 --> 01:43:30,637
 However, our Prophet
 who was sent as a mercy to all creation...
 
-01:43:30.837 --> 01:43:35.070
+620
+01:43:30,837 --> 01:43:35,070
 ...said "No, I do not want them
 to be destroyed.
 
-01:43:35.137 --> 01:43:39.603
+621
+01:43:35,137 --> 01:43:39,603
 I wish God brings up people
 from their generation...
 
-01:43:39.703 --> 01:43:45.037
+622
+01:43:39,703 --> 01:43:45,037
 ...who will serve and pray
 only to God, and not to others."
 
-01:43:46.237 --> 01:43:50.137
+623
+01:43:46,237 --> 01:43:50,137
 The people of Taif
 became Muslims years after that.
 
-01:43:50.237 --> 01:43:52.570
+624
+01:43:50,237 --> 01:43:52,570
 Mercy prevailed over persecution.
 
-01:43:54.103 --> 01:43:58.337
+625
+01:43:54,103 --> 01:43:58,337
 Hopefully, mercy will prevail
 over persecution again.
 
-01:30:50.708 --> 01:30:54.308
+626
+01:30:50,708 --> 01:30:54,308
 Our Bey is coming!
 Our tent will be happy!
 
-01:30:54.541 --> 01:30:55.674
+627
+01:30:54,541 --> 01:30:55,674
 Welcome, Bey!
 
-01:30:55.774 --> 01:30:58.008
+628
+01:30:55,774 --> 01:30:58,008
 May God keep you always with us!
 
-01:30:58.841 --> 01:31:00.841
+629
+01:30:58,841 --> 01:31:00,841
 Welcome, Bey!
 
-01:31:03.074 --> 01:31:04.241
+630
+01:31:03,074 --> 01:31:04,241
 Welcome, Bey!
 
-01:31:05.141 --> 01:31:06.908
+631
+01:31:05,141 --> 01:31:06,908
 Ertugrul Bey, welcome!
 
-01:31:11.908 --> 01:31:13.874
+632
+01:31:11,908 --> 01:31:13,874
 May God help you, Bey!
 
-01:31:17.174 --> 01:31:18.774
+633
+01:31:17,174 --> 01:31:18,774
 Welcome, Bey!
 
-01:31:37.108 --> 01:31:38.674
+634
+01:31:37,108 --> 01:31:38,674
 Welcome, Bey!
 
-01:31:52.741 --> 01:31:54.541
+635
+01:31:52,741 --> 01:31:54,541
 Ertugrul is here, Bey.
 
-01:31:54.641 --> 01:31:57.041
+636
+01:31:54,641 --> 01:31:57,041
 So he comes.
 
-01:32:06.574 --> 01:32:08.008
+637
+01:32:06,574 --> 01:32:08,008
 Welcome, Bey.
 
-01:32:08.074 --> 01:32:09.241
+638
+01:32:08,074 --> 01:32:09,241
 Welcome, Bey.
 
-01:32:10.041 --> 01:32:12.274
+639
+01:32:10,041 --> 01:32:12,274
 May God keep you always with us.
 
-01:32:12.574 --> 01:32:14.641
+640
+01:32:12,574 --> 01:32:14,641
 Welcome, Bey.
 
-01:32:15.041 --> 01:32:16.641
+641
+01:32:15,041 --> 01:32:16,641
 May God help you.
 
-01:32:33.208 --> 01:32:36.241
+642
+01:32:33,208 --> 01:32:36,241
 Today is the day
 to pay the price, Ertugrul.
 
-01:32:39.208 --> 01:32:41.641
+643
+01:32:39,208 --> 01:32:41,641
 You are right, Karabudak.
 
-01:32:42.174 --> 01:32:44.774
+644
+01:32:42,174 --> 01:32:44,774
 Today is the day to pay the price.
 
-01:32:44.841 --> 01:32:49.041
+645
+01:32:44,841 --> 01:32:49,041
 Everybody will pay the price
 in the Judgment Day.
 
-01:32:51.141 --> 01:32:53.774
+646
+01:32:51,141 --> 01:32:53,774
 Thankfully, we have no doubt about it.
 
-01:32:58.274 --> 01:33:00.608
+647
+01:32:58,274 --> 01:33:00,608
 However...
 
-01:33:00.674 --> 01:33:03.908
+648
+01:33:00,674 --> 01:33:03,908
 ...it would break my heart
 for you and Kurdoglu...
 
-01:33:04.008 --> 01:33:07.574
+649
+01:33:04,008 --> 01:33:07,574
 ...to wait until the Judgment Day
 to pay your price.
 
-01:36:03.741 --> 01:36:05.574
+650
+01:36:03,741 --> 01:36:05,574
 Our condolences, Ertugrul Bey.
 
-01:36:05.641 --> 01:36:08.541
+651
+01:36:05,641 --> 01:36:08,541
 Our condolences.
 May God give you patience.
 
-01:36:08.608 --> 01:36:11.808
+652
+01:36:08,608 --> 01:36:11,808
 Our condolences, Bey.
 May God give you patience.
 
-01:36:11.908 --> 01:36:14.074
+653
+01:36:11,908 --> 01:36:14,074
 Our condolences, Bey.
 
-01:37:14.508 --> 01:37:17.608
+654
+01:37:14,508 --> 01:37:17,608
 I heard you wanted to
 confront me, Ertugrul.
 
-01:37:29.508 --> 01:37:32.974
+655
+01:37:29,508 --> 01:37:32,974
 As your loyal dog Karabudak said...
 
-01:37:36.941 --> 01:37:39.208
+656
+01:37:36,941 --> 01:37:39,208
 ...today is the day to pay the price.
 
-01:37:41.308 --> 01:37:45.541
+657
+01:37:41,308 --> 01:37:45,541
 I will disregard
 your father's holy memory...
 
-01:37:46.774 --> 01:37:49.741
+658
+01:37:46,774 --> 01:37:49,741
 ...and I will smash you here!
 
-01:37:52.108 --> 01:37:53.741
+659
+01:37:52,108 --> 01:37:53,741
 Know your place!
 
-01:37:59.308 --> 01:38:01.641
+660
+01:37:59,308 --> 01:38:01,641
 Ertugrul...
 
-01:38:02.741 --> 01:38:06.407
+661
+01:38:02,741 --> 01:38:06,407
 Nobody recognizes you
 neither in this marquee...
 
-01:38:06.907 --> 01:38:08.774
+662
+01:38:06,907 --> 01:38:08,774
 ...nor in this meeting...
 
-01:38:08.841 --> 01:38:14.174
+663
+01:38:08,841 --> 01:38:14,174
 ...or in any forage where oxen grass.
 
-01:38:16.607 --> 01:38:21.441
+664
+01:38:16,607 --> 01:38:21,441
 I just accepted you in my marquee
 out of respect to your father.
 
-01:38:21.907 --> 01:38:23.907
+665
+01:38:21,907 --> 01:38:23,907
 If you cross the line...
 
-01:38:24.141 --> 01:38:27.574
+666
+01:38:24,141 --> 01:38:27,574
 ...you should know that
 I will impale you in the tent square!
 
-01:38:30.807 --> 01:38:32.607
+667
+01:38:30,807 --> 01:38:32,607
 Your loss and pain is big.
 
-01:38:32.774 --> 01:38:38.507
+668
+01:38:32,774 --> 01:38:38,507
 However, if you have even a little respect
 left for the people of this tent...
 
-01:38:39.307 --> 01:38:41.674
+669
+01:38:39,307 --> 01:38:41,674
 ...do not provoke disturbance.
 
-01:38:42.507 --> 01:38:46.174
+670
+01:38:42,507 --> 01:38:46,174
 It was decided that
 your family would be exiled.
 
-01:38:47.441 --> 01:38:50.541
+671
+01:38:47,441 --> 01:38:50,541
 They were going to be sent
 to your uncle Korkut's tent.
 
-01:38:50.607 --> 01:38:56.941
+672
+01:38:50,607 --> 01:38:56,941
 However, your father and brother
 chose to go against this decision.
 
-01:38:58.774 --> 01:39:00.741
+673
+01:38:58,774 --> 01:39:00,741
 May them rest in peace.
 
-01:39:00.807 --> 01:39:02.474
+674
+01:39:00,807 --> 01:39:02,474
 Amen.
 
-01:39:03.807 --> 01:39:06.707
+675
+01:39:03,807 --> 01:39:06,707
 Now, say what you want to say.
 
-01:39:07.441 --> 01:39:10.707
+676
+01:39:07,441 --> 01:39:10,707
 And then, obey the decision
 that will be given here.
 
-01:39:12.607 --> 01:39:15.874
+677
+01:39:12,607 --> 01:39:15,874
 Are you planning to kill me
 on the way...
 
-01:39:16.174 --> 01:39:19.341
+678
+01:39:16,174 --> 01:39:19,341
 ...by way of the Templars
 that you have been allying with...
 
-01:39:19.441 --> 01:39:23.341
+679
+01:39:19,441 --> 01:39:23,341
 ...and with the Alps that you bought,
 like you did to my family?
 
-01:39:24.807 --> 01:39:26.541
+680
+01:39:24,807 --> 01:39:26,541
 What is going on?
 
-01:39:28.707 --> 01:39:30.474
+681
+01:39:28,707 --> 01:39:30,474
 That is enough, Bey.
 
-01:39:30.574 --> 01:39:33.874
+682
+01:39:30,574 --> 01:39:33,874
 This tactless man
 has crossed the line way over.
 
-01:39:37.641 --> 01:39:40.641
+683
+01:39:37,641 --> 01:39:40,641
 Now that Kurdoglu Bey
 invited him here...
 
-01:39:40.874 --> 01:39:43.874
+684
+01:39:40,874 --> 01:39:43,874
 ...let him talk, Karabudak.
 
-01:39:44.541 --> 01:39:47.707
+685
+01:39:44,541 --> 01:39:47,707
 Now that this is the place
 where God's justice will be done...
 
-01:39:48.841 --> 01:39:51.741
+686
+01:39:48,841 --> 01:39:51,741
 ...I say let us allow
 Ertugrul Bey to say what he has to say.
 
-01:39:51.807 --> 01:39:53.341
+687
+01:39:51,807 --> 01:39:53,341
 He is right!
 
-01:39:53.407 --> 01:39:55.441
+688
+01:39:53,407 --> 01:39:55,441
 He is right.
 
-01:39:59.341 --> 01:40:01.174
+689
+01:39:59,341 --> 01:40:01,174
 Thank you.
 
-01:40:02.174 --> 01:40:08.807
+690
+01:40:02,174 --> 01:40:08,807
 The price for blaming a bey
 in his marquee like this is very high.
 
-01:40:13.207 --> 01:40:17.141
+691
+01:40:13,207 --> 01:40:17,141
 You will not get out of here alive
 if you go on like this.
 
-01:40:21.907 --> 01:40:26.374
+692
+01:40:21,907 --> 01:40:26,374
 You are not the bey of this tent,
 Kurdoglu.
 
-01:40:29.174 --> 01:40:33.841
+693
+01:40:29,174 --> 01:40:33,841
 You are a disgrace
 to the people of Oghuz and Kayis.
 
-01:40:36.774 --> 01:40:39.341
+694
+01:40:36,774 --> 01:40:39,341
 My words reflect the truth.
 
-01:40:40.241 --> 01:40:43.474
+695
+01:40:40,241 --> 01:40:43,474
 I have two witnesses to prove them.
 
-01:40:44.341 --> 01:40:48.674
+696
+01:40:44,341 --> 01:40:48,674
 I would like you Beys to allow these
 witnesses enter the marquee.
 
-01:40:49.507 --> 01:40:52.407
+697
+01:40:49,507 --> 01:40:52,407
 Let them come, Bey!
 
-01:40:55.507 --> 01:40:57.741
+698
+01:40:55,507 --> 01:40:57,741
 Alright, then.
 
-01:40:57.807 --> 01:41:01.841
+699
+01:40:57,807 --> 01:41:01,841
 However, I am sure
 you also noticed that...
 
-01:41:01.907 --> 01:41:04.541
+700
+01:41:01,907 --> 01:41:04,541
 ...there are three beys missing here.
 
-01:41:09.841 --> 01:41:12.574
+701
+01:41:09,841 --> 01:41:12,574
 They apologized from you.
 
-01:41:21.274 --> 01:41:22.541
+702
+01:41:21,274 --> 01:41:22,541
 What is going on?
 
-01:41:22.607 --> 01:41:23.874
+703
+01:41:22,607 --> 01:41:23,874
 What is going on?
 
-01:46:19.623 --> 01:46:21.190
+704
+01:46:19,623 --> 01:46:21,190
 Brother!
 
-01:46:23.490 --> 01:46:25.690
+705
+01:46:23,490 --> 01:46:25,690
 Halime Sultan, are you alright?
 
-01:46:25.756 --> 01:46:27.356
+706
+01:46:25,756 --> 01:46:27,356
 I am.
 
-01:46:27.656 --> 01:46:31.623
+707
+01:46:27,656 --> 01:46:31,623
 I am so glad to see you three
 like this again.
 
-01:46:38.090 --> 01:46:39.423
+708
+01:46:38,090 --> 01:46:39,423
 Turgut!
 
-01:46:39.523 --> 01:46:41.556
+709
+01:46:39,523 --> 01:46:41,556
 Brother Turgut!
 
-01:46:41.623 --> 01:46:45.990
+710
+01:46:41,623 --> 01:46:45,990
 -Brother, are you alright?
 -I am.
 
-01:46:46.090 --> 01:46:47.690
+711
+01:46:46,090 --> 01:46:47,690
 I need to go to the tent.
 
-01:46:54.156 --> 01:46:55.490
+712
+01:46:54,156 --> 01:46:55,490
 Come on, brother.
 
-01:46:59.423 --> 01:47:01.090
+713
+01:46:59,423 --> 01:47:01,090
 Come on, brother.
 
-01:47:12.790 --> 01:47:14.256
+714
+01:47:12,790 --> 01:47:14,256
 Peace be upon you.
 
-01:47:16.223 --> 01:47:18.090
+715
+01:47:16,223 --> 01:47:18,090
 And peace be upon you.
 
-01:47:18.723 --> 01:47:22.156
+716
+01:47:18,723 --> 01:47:22,156
 I see that things went crazy
 while I was away.
 
-01:47:29.656 --> 01:47:33.556
+717
+01:47:29,656 --> 01:47:33,556
 Tell me, then. What did your witnesses
 witness against me?
 
-01:47:35.723 --> 01:47:42.123
+718
+01:47:35,723 --> 01:47:42,123
 That you allied with Black Toygar
 and got the train raided.
 
-01:47:53.390 --> 01:47:56.323
+719
+01:47:53,390 --> 01:47:56,323
 That you got fifteen of our Alps martyred.
 
-01:48:00.590 --> 01:48:07.423
+720
+01:48:00,590 --> 01:48:07,423
 That you allied with the Templars and
 brought all kinds of troubles in the tent.
 
-01:48:12.723 --> 01:48:16.056
+721
+01:48:12,723 --> 01:48:16,056
 Enough is enough, Bey!
 How much longer are we...
 
-01:48:22.390 --> 01:48:27.056
+722
+01:48:22,390 --> 01:48:27,056
 That you went to the castle
 a lot of times...
 
-01:48:27.156 --> 01:48:31.090
+723
+01:48:27,156 --> 01:48:31,090
 ...and committed crimes
 with their Grandmaster Mancini.
 
-01:48:41.123 --> 01:48:43.256
+724
+01:48:41,123 --> 01:48:43,256
 Well, well, well.
 
-01:48:43.356 --> 01:48:46.523
+725
+01:48:43,356 --> 01:48:46,523
 Look how strong witnesses
 my niece Ertugrul has.
 
-01:48:48.056 --> 01:48:49.623
+726
+01:48:48,056 --> 01:48:49,623
 I do.
 
-01:48:49.690 --> 01:48:55.190
+727
+01:48:49,690 --> 01:48:55,190
 They saw and heard in person
 that you are a traitor, Kurdoglu.
 
-01:49:00.156 --> 01:49:03.323
+728
+01:49:00,156 --> 01:49:03,323
 They will also witness that...
 
-01:49:03.423 --> 01:49:07.756
+729
+01:49:03,423 --> 01:49:07,756
 ...you bought men in the tent
 with the gold you took from Mancini.
 
-01:49:10.123 --> 01:49:16.090
+730
+01:49:10,123 --> 01:49:16,090
 They will tell who the bastards
 you bought are one by one.
 
-01:49:26.223 --> 01:49:28.590
+731
+01:49:26,223 --> 01:49:28,590
 Who is your witness?
 
-01:49:28.656 --> 01:49:30.056
+732
+01:49:28,656 --> 01:49:30,056
 It is Turgut Alp.
 
-01:49:31.123 --> 01:49:34.690
+733
+01:49:31,123 --> 01:49:34,690
 Do you think I do not know that
 you and Turgut Alp killed my Alps...
 
-01:49:34.756 --> 01:49:37.656
+734
+01:49:34,756 --> 01:49:37,656
 ...who were taking your family to exile?
 
-01:49:38.090 --> 01:49:40.390
+735
+01:49:38,090 --> 01:49:40,390
 Ertugrul Bey would never do that.
 
-01:49:42.323 --> 01:49:44.623
+736
+01:49:42,323 --> 01:49:44,623
 Oh, Ertugrul.
 
-01:49:44.690 --> 01:49:47.523
+737
+01:49:44,690 --> 01:49:47,523
 It seems like you underestimated Kurdoglu.
 
-01:49:52.490 --> 01:49:55.990
+738
+01:49:52,490 --> 01:49:55,990
 They tried to set up a trap for me.
 
-01:49:56.090 --> 01:49:58.156
+739
+01:49:56,090 --> 01:49:58,156
 They won Halime Sultan over.
 
-01:49:59.256 --> 01:50:03.390
+740
+01:49:59,256 --> 01:50:03,390
 They are trying to ruin my reputation
 with all kinds of slanders.
 
-01:50:04.290 --> 01:50:08.323
+741
+01:50:04,290 --> 01:50:08,323
 But they do not know that
 I will be the one who ruins them.
 
-01:50:09.023 --> 01:50:11.423
+742
+01:50:09,023 --> 01:50:11,423
 There will not be an exile anymore.
 
-01:50:12.656 --> 01:50:14.523
+743
+01:50:12,656 --> 01:50:14,523
 I will kill you all, Ertugrul.
 
-01:50:14.623 --> 01:50:17.356
+744
+01:50:14,623 --> 01:50:17,356
 I will not let any of you live.
 
-01:50:17.423 --> 01:50:22.256
+745
+01:50:17,423 --> 01:50:22,256
 I will kill your family even if they go
 to the other side of the world!
 
-01:50:22.323 --> 01:50:24.723
+746
+01:50:22,323 --> 01:50:24,723
 Alps! Catch him!
 
-01:52:04.256 --> 01:52:08.323
+747
+01:52:04,256 --> 01:52:08,323
 I will kill you here
 unless you confess everything.
 
-01:52:08.723 --> 01:52:10.590
+748
+01:52:08,723 --> 01:52:10,590
 Talk, Kurdoglu!
 
-01:52:11.623 --> 01:52:14.690
+749
+01:52:11,623 --> 01:52:14,690
 My beys, they are all lies!
 
-01:52:14.756 --> 01:52:16.690
+750
+01:52:14,756 --> 01:52:16,690
 They are all slander!
 
-01:52:16.790 --> 01:52:18.490
+751
+01:52:16,790 --> 01:52:18,490
 Do not be scared, my Beys!
 
-01:52:18.556 --> 01:52:20.256
+752
+01:52:18,556 --> 01:52:20,256
 They are all lies!
 
-01:52:22.590 --> 01:52:27.723
+753
+01:52:22,590 --> 01:52:27,723
 Kurdoglu, the truth came,
 and the lies went away.
 
-01:52:36.023 --> 01:52:37.990
+754
+01:52:36,023 --> 01:52:37,990
 -Turgut Alp.
 -Yes, Bey.
 
-01:52:38.523 --> 01:52:42.590
+755
+01:52:38,523 --> 01:52:42,590
 Send a message to Suleyman Shah
 and tell him that he can come.
 
-01:52:42.690 --> 01:52:45.456
+756
+01:52:42,690 --> 01:52:45,456
 -He can come to his marquee.
 -Yes, Bey.
 
-01:52:50.023 --> 01:52:54.490
+757
+01:52:50,023 --> 01:52:54,490
 I hope this holy marquee
 does not have a shame like this anymore.
 
-01:54:09.723 --> 01:54:11.656
+758
+01:54:09,723 --> 01:54:11,656
 Father...
 
-01:54:12.156 --> 01:54:13.790
+759
+01:54:12,156 --> 01:54:13,790
 ...the fire is lit.
 
-01:54:25.356 --> 01:54:27.423
+760
+01:54:25,356 --> 01:54:27,423
 Ertugrul succeeded.
 
-01:54:38.190 --> 01:54:40.256
+761
+01:54:38,190 --> 01:54:40,256
 Let us go, then.
 
-01:54:43.656 --> 01:54:46.589
+762
+01:54:43,656 --> 01:54:46,589
 Hayme, you will catch up with us.
 
-01:54:46.690 --> 01:54:48.323
+763
+01:54:46,690 --> 01:54:48,323
 As you wish, Bey.
 
-01:54:49.623 --> 01:54:52.156
+764
+01:54:49,623 --> 01:54:52,156
 Abdurrahman, get the horses ready!
 
-01:54:52.223 --> 01:54:53.790
+765
+01:54:52,223 --> 01:54:53,790
 Yes, Bey!
 
-01:55:14.656 --> 01:55:17.123
+766
+01:55:14,656 --> 01:55:17,123
 <i>I swear by the name of God</i>
 
-01:55:18.590 --> 01:55:22.256
+767
+01:55:18,590 --> 01:55:22,256
 <i>Who creates everything with one word</i>
 
-01:55:22.356 --> 01:55:28.356
+768
+01:55:22,356 --> 01:55:28,356
 <i>And fills our hearts with faith</i>
- <i>I swear by my weapon, my flag</i>
+<i>I swear by my weapon, my flag</i>
 
-01:55:32.623 --> 01:55:35.090
+769
+01:55:32,623 --> 01:55:35,090
 <i>In this path to war</i>
 
-01:55:36.790 --> 01:55:39.090
+770
+01:55:36,790 --> 01:55:39,090
 <i>May my ancestor Hizir be my companion</i>
 
-01:55:39.156 --> 01:55:41.590
+771
+01:55:39,156 --> 01:55:41,590
 <i>And Hazrat Ali my guide</i>
 
-01:55:53.590 --> 01:55:57.423
+772
+01:55:53,590 --> 01:55:57,423
 <i>May Zulfiqar be my weapon</i>
- <i>And Duldul my horse</i>
+<i>And Duldul my horse</i>
 
-01:55:58.456 --> 01:56:02.156
+773
+01:55:58,456 --> 01:56:02,156
 <i>May the dawn be ours</i>
- <i>And the victory be God's</i>
+<i>And the victory be God's</i>
 
-01:56:44.323 --> 01:56:47.356
+774
+01:56:44,323 --> 01:56:47,356
 -Welcome, Bey!
 -Welcome!
 
-01:56:47.523 --> 01:56:51.456
+775
+01:56:47,523 --> 01:56:51,456
 Welcome, Bey!
 May God keep you always with us.
 
-01:59:28.456 --> 01:59:31.190
+776
+01:59:28,456 --> 01:59:31,190
 Mercy...
 
-01:59:38.790 --> 01:59:42.356
+777
+01:59:38,790 --> 01:59:42,356
 There is no mercy for traitors, Kurdoglu.
+
